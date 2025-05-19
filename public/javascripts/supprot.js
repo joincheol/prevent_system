@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const searchInput = document.getElementById("searchInput");
   const cardContainer = document.getElementById("cardContainer");
 
-  fetch("/data/farm.json")
+  fetch("/farm.json")
     .then((res) => res.json())
     .then((data) => {
       supportList = data;
