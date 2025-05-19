@@ -1,0 +1,200 @@
+/* 상단 네비게이션 바 */
+.page-container {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar {
+    background-color: #003478;
+    color: white;
+    padding: 1.5rem 0 1.2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    box-shadow: 0 4px 16px rgba(0,52,120,0.08);
+    width: 100%;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 0.7rem;
+    font-weight: bold;
+    letter-spacing: -1px;
+  }
+  
+  .search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.6rem 1rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    margin-top: 0.3rem;
+    box-shadow: 0 1px 4px rgba(0,52,120,0.07);
+  }
+  
+  
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 2rem;
+  }
+  
+  .card {
+    background: #fff;
+    border: 1.5px solid #e0eaff;
+    border-radius: 1.2rem;
+    box-shadow: 0 4px 16px rgba(0,52,120,0.08);
+    padding: 1.5rem;
+    margin-bottom: 0;
+    transition: box-shadow 0.2s, transform 0.2s;
+    display: flex;
+    flex-direction: column;
+    min-height: 180px;
+    width: 100%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 32px rgba(0,52,120,0.16);
+    transform: translateY(-4px) scale(1.02);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #003478;
+    margin-bottom: 0.5rem;
+    letter-spacing: -1px;
+  }
+  
+  .card-badge {
+    display: inline-block;
+    background: #e0eaff;
+    color: #003478;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.2rem 0.8rem;
+    border-radius: 999px;
+    margin-left: 0.5rem;
+  }
+  
+  .card-budget {
+    background: #f3f8ff;
+    color: #2563eb;
+    font-size: 0.92rem;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.18rem 0.7rem;
+    border-radius: 0.7rem;
+    margin-bottom: 0.75rem;
+    margin-top: 0.25rem;
+  }
+  
+  .card-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-section strong {
+    min-width: 4.5rem;
+    color: #003478;
+    font-size: 1rem;
+  }
+  
+  .support-eligibility,
+  .support-details {
+    white-space: pre-line;
+    font-size: 0.98rem;
+    color: #333;
+    margin-left: 0.2rem;
+  }
+  
+  .detail-button {
+    margin-top: auto;
+    align-self: flex-start;
+    padding: 8px 20px;
+    background: linear-gradient(90deg, #2563eb 70%, #003478 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,52,120,0.06);
+    transition: background 0.2s, transform 0.15s;
+  }
+  
+  .detail-button:hover {
+    background: linear-gradient(90deg, #003478 60%, #2563eb 100%);
+    transform: scale(1.04);
+  }
+
+  .link-button {
+    margin-top: auto;
+    margin-left: auto;
+    align-self: flex-start;
+    padding: 8px 20px;
+    background: linear-gradient(90deg, #43cea2 60%, #185a9d 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,52,120,0.06);
+    transition: background 0.2s, transform 0.15s;
+  }
+  
+  .link-button:hover {
+    background: linear-gradient(90deg, #185a9d 60%, #43cea2 100%);
+    transform: scale(1.04);
+  }
+
+  .back-button {
+    position: absolute;
+    top: 20px;
+    right: 24px;
+    background-color: #007bff;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    z-index: 1000;
+  }
+  
+  
+  .back-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  @media (max-width: 600px) {
+    .card {
+      padding: 1rem;
+      min-height: 160px;
+      max-width: 100%;
+    }
+    .card-title {
+      font-size: 1.25rem;
+    }
+    .detail-button {
+      font-size: 0.95rem;
+      padding: 7px 14px;
+    }
+  }
+
+  
