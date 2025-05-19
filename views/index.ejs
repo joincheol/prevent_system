@@ -26,17 +26,64 @@
       <a href="/assist" class="nav-link">도우미</a>
       <a href="/news" class="nav-link">뉴스</a>
 
-      <div class="search-box">
-        <input type="text" placeholder="검색..." />
+      <div class="disease-buttons">
+        <button data-status="병해충">병해충</button>
+        <button data-status="구제역">구제역</button>
+        <button data-status="아프리카돼지열병">ASF(아프리카돼지열병)</button>
+        <button data-status="조류인플루엔자">AI(조류인플루엔자)</button>
+        <button data-status="기타">기타</button>
       </div>
 
-      <div class="disease-buttons">
-        <button>병해충</button>
-        <button>구제역</button>
-        <button>ASF(아프리카돼지열병)</button>
-        <button>AI(조류인플루엔자)</button>
-        <button>기타</button>
+      <!-- 사이드바 내 필터 영역 -->
+      <div class="filter-section">
+        <select id="filter-year"><option value="">년도 선택</option></select>
+        <select id="filter-month"><option value="">월 선택</option></select>
+        <select id="filter-sido">
+            <option value="">시·도 선택</option>
+            <option value="서울특별시">서울특별시</option>
+            <option value="부산광역시">부산광역시</option>
+            <option value="대구광역시">대구광역시</option>
+            <option value="인천광역시">인천광역시</option>
+            <option value="광주광역시">광주광역시</option>
+            <option value="대전광역시">대전광역시</option>
+            <option value="울산광역시">울산광역시</option>
+            <option value="세종특별자치시">세종특별자치시</option>
+            <option value="경기도">경기도</option>
+            <option value="강원도">강원도</option>
+            <option value="충청북도">충청북도</option>
+            <option value="충청남도">충청남도</option>
+            <option value="전라북도">전라북도</option>
+            <option value="전라남도">전라남도</option>
+            <option value="경상북도">경상북도</option>
+            <option value="경상남도">경상남도</option>
+            <option value="제주특별자치도">제주특별자치도</option>
+        </select>
+        <select id="filter-sigungu">
+          <option value="">시·군·구 선택</option>
+          <!-- 시도 선택 시 JS로 동적 생성됨 -->
+        </select>   
+        <button id="filter-reset">초기화</button>
       </div>
+
+      <div class="occur-list-section">
+        <div class="occur-table-frame" id="occur-table-frame">
+          <table class="occur-table">
+            <thead>
+              <tr>
+                <th>순번</th>
+                <th>발생지역</th>
+                <th>발생일자</th>
+              </tr>
+            </thead>
+            <tbody id="occur-list"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="occur-count-section">
+        <span>발생건수: </span><span id="occur-count">0</span>
+        <div class="occur-date-range" id="occur-date-range"></div>
+      </div>
+      
     </aside>
 
     <!-- 콘텐츠 영역 -->
