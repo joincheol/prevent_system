@@ -111,12 +111,28 @@ body {
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+/* marker */
 .marker {
   width: 15px;
   height: 15px;
   background: green;
   border: 1px solid black;
   border-radius: 50%;
+}
+.marker-green {
+  background-color: #28a745;
+}
+.marker-yellow {
+  background-color: #ffc107;
+}
+.marker-red {
+  background-color: #dc3545;
+}
+.marker-blue {
+  background-color: #007bff;
+}
+.marker-default {
+  background-color: gray;
 }
 
 .infowindow_wrap {
