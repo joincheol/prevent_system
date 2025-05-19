@@ -1,11 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>지원 정보</title>
+  <link rel="stylesheet" href="stylesheets/support.css"/>
 </head>
 <body>
-  <h1>지원정보</h1>
+  <div class="page-container">
+    <header class="navbar">
+      <h1 class="title">📄 지원 정보</h1>
+      <input
+        type="text"
+        id="searchInput"
+        class="search-input"
+        placeholder="사업명 또는 지원내용 검색" 
+      />
+      <!-- 🔽 메인 페이지로 돌아가는 버튼 추가 -->
+      <a href="/" class="back-button">메인으로</a>
+    </header>
+    
+
+    <main id="cardContainer" class="card-container">
+      <!-- 카드들이 JS에서 렌더링됨 -->
+    </main>
+  </div>
+
+  <script src="/javascripts/support.js"></script>
 </body>
 </html>
