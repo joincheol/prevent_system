@@ -1,0 +1,1593 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "projectname": "기본형공익직불",
+    "budget": "2,633,487",
+    "eligibility": "ㅇ 농업경영체에 등록한 농업인 및 농지를 대상으로 자격요건을 충족한 경우 기본직불금 지급",
+    "supportDetails": "ㅇ 소농직불 : 130만원/농가\nㅇ 면적직불 : 농지의 논/밭, 진흥/비진흥을 구분하여 역진적 단가체계로 최소 100만원/ha 이상 지급",
+    "url": "https://www.kwnews.co.kr/page/view/2025051310210051897"
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "projectname": "전략작물직불",
+    "budget": "186,450",
+    "eligibility": "ㅇ 농업경영체로 등록된 농업인, 농업법인 및 식량작물공동경영체",
+    "supportDetails": "ㅇ 논에 전략작물을 재배하는 농업인 등에 직불금 지원(지원단가 50~430만원/ha)대상품목\n  - 동계작물: 밀,보리,귀리 등 동계 식량 사료작물,\n  - 하계작물: 두류,가루쌀,조사료,옥수수 지급단가: 50~430만원/ha\n  - 지급금액: 지급단가(원/㎡) × 지급대상 농지면적(㎡)\n  - 동계 밀 또는 조사료와 하계 두류 또는 가루쌀 이모작시 ha당 100만원 추가 지급",
+    "url": "https://www.mafra.go.kr/gong/5568/subview.do"
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "projectname": "친환경농업직불",
+    "budget": "22,832",
+    "eligibility": "ㅇ 친환경농산물 인증을 받고 지자체 및 인증기관의 이행점검 결과 인증이 유효한 것으로 통보받은 자",
+    "supportDetails": "ㅇ인증유형 및 농지이용에 따라 35만원/ha~140만원/ha의 단가로 신청면적(농가당 0.1~5ha 한도)에 따라 직불금 지급",
+    "url": "http://www.ecotiger.co.kr/news/articleView.html?idxno=48806"
+  },
+  {
+    "id": 4,
+    "year": 2025,
+    "projectname": "친환경축산직불",
+    "budget": "1,585",
+    "eligibility": "ㅇ HACCP 농장인증과 친환경축산물 인증을 받아 관리기관 등의 이행점검 결과 인증 취소 등의 처분을 받지 아니하고, 친환경축산직접지불금(이하 “직불금”이라 한다) 지급 시까지 인증이 유효한 자\nㅇ 동일 농장에 대하여 친환경축산물 인증을 받은 자의 가족 또는 동업자 명의로 HACCP 인증을 받은 농가 중 관리기관으로부터 인증 취소 등의 처분을 받지 아니한 자 (교육홍보) 친환경축산협회",
+    "supportDetails": "ㅇ 유기축산물 인증을 받은 농업인에게 직불금 지급 친환경축산 교육 및 홍보 지원\n  - 친환경축산 소비기반 확대 및 소비촉진 홍보\n  - 유기축산 환경기여도 연구\n  - 유기축산 전환 컨설팅 및 인증교육\n  - 온라인 홍보를 위한 단행본 제작 등",
+    "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=203094"
+  },
+  {
+    "id": 5,
+    "year": 2025,
+    "projectname": "경관보전직불",
+    "budget": "16,830",
+    "eligibility": "ㅇ ｢농어업경영체 육성 및 지원에 관한 법률｣ 제4조제1항제1호에 따라 농업경영정보를 등록(변경등록 포함)한 자로서 지급대상 농지 및 초지에서 경관작물을 재배･관리하는 농업인 및 농업법인",
+    "supportDetails": "ㅇ 농업인등이 경관작물의 재배･관리에 따라 추가로 발생하는 비용 또는 소득의 감소분 등을 고려하여 직불금 지급(경관작물 : 170만원/ha, 준경관작물 : 100만원/ha, 준경관초지작물 45만원/ha)",
+    "url": "https://ader.naver.com/v1/WBIeEYhDGMbHbOlHJo4B73XQ38OII7TQfIXtoJl0JB6p0iyhcYkrqsTqIAJlh0wsJ4_bYPi7kvpHIyFJ9liOtFedmKnrL559TmEprLMnefbbr6mvbbXEmmJ0wmMg8NT9bFWI-h8bDGVzmPzbI8aJPDrFMWM0sR_sGZS8YSB-bTyWeShPw6yfaMIw-QZKOE_Zt5TPprDtaYlxIAgeov4RjPZJtSw11tgTguFd37D0_3Qty1HLdjuD7zQiGX0B2pkWsJxX9KcjE3biTAX94XlRMQ==?c=naver.search.pc.plsearch&t=0"
+  },
+  {
+    "id": 6,
+    "year": 2025,
+    "projectname": "농업인안전재해 보험 보험료 지원",
+    "budget": "94,798",
+    "eligibility": "ㅇ (농업인안전보험) 농업경영체에 등록된 자를 피보험자로 하여 보험계약을 체결하는 자\nㅇ (농기계종합보험) 보험대상 농기계를 소유 또는 관리하며 농업경영체에 등록된 만 19세 이상의 농업인 또는 농업법인",
+    "supportDetails": "ㅇ 보험계약자가 부담하는 보험료의 50%, 70%(영세농업인) 지원",
+    "url": "https://www.110.go.kr/data/counselView.do?num=A01_659749"
+  },
+  {
+    "id": 7,
+    "year": 2025,
+    "projectname": "농업 자금 이차 보전사업",
+    "budget": "557,722",
+    "eligibility": "ㅇ 농업인 등 융자 100% 지원, 금융기관 이차보전",
+    "supportDetails": "ㅇ 농업자금 저리 지원에 따른 금융기관의 이자차액을 보전",
+    "url": "https://www.cwg.go.kr/www/selectBbsNttView.do?key=206&bbsNo=24&nttNo=174465"
+  },
+  {
+    "id": 8,
+    "year": 2025,
+    "projectname": "토양개량제지원사업",
+    "budget": "62,031",
+    "eligibility": "ㅇ ｢농어업경영체 육성 및 지원에 관한 법률｣ 제4조에 따라 농업경영정보를 등록한 농업경영체로써 토양개량제(규산, 석회) 공급신청서를 작성하여 농지소재지 읍･면･동에 토양개량제 공급을 신청한 자",
+    "supportDetails": "ㅇ 본인의 농업경영체 등록정보에 등록된 농지를 대상으로 토양개량제를 신청한 농업경영체에게 규산 및 석회비료 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/324000000117"
+  },
+  {
+    "id": 9,
+    "year": 2025,
+    "projectname": "농기계등화장치 부착지원",
+    "budget": 800,
+    "eligibility": "ㅇ 경운기 또는 트랙터를 보유하고 있는 농가",
+    "supportDetails": "ㅇ 경운기, 트랙터에 등화장치(저속차량 표시등, 방향지시등) 부착 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000157"
+  },
+  {
+    "id": 10,
+    "year": 2025,
+    "projectname": "맞춤형농지지원",
+    "budget": "1,241,260",
+    "eligibility": "ㅇ 전업농육성대상자, 전업농업인, 농업법인, 영농복귀자\n  - 세부요건은 사업별로 상이",
+    "supportDetails": "ㅇ 농지매매 : 비농업인, 직업전환 또는 은퇴농 등의 농지를 공사가 매입하여 영농규모를 확대하고자 하는 전업농육성대상자 등에게 매도\nㅇ 농지임차임대 : 전업하거나 은퇴하려는 농업인 등의 농지를 공사가 임차하여 전업농육성대상자 등에게 장기임대\nㅇ 농지교환분합 : 농지의 집단화를 위하여 상호간에 논 또는 밭을 교환 또는 분리･합병하고자 하는 농업인 또는 농업법인 지원\nㅇ 선임대후매도 : 청년농이 희망 농지를 최대 30년간 장기 임차하여 경작하고 토지 매매대금이 완납되면 매입할 수 있도록 지원\nㅇ 공공임대용농지매입 : 공사가 농지를 매입하여 2030세대 등 젊은 농업인 등에 장기임대\nㅇ 청년 창업형 스마트농업단지 : 청년농을 대상으로 저활용 농지, 국･공유지 등을 활용하여 지구를 지정하고, 농업기반 정비 후 청년농에게 매도하여 영농기반 마련 및 안정적인 정착 지원\nㅇ 맞춤형농지지원 활성화 : 청년농 지원 및 육성 등 농지은행 역할과 기능 홍보를 통한 농지은행사업 인지도제고 및 정책적 가치확산, 사업 참여유도를 통한 농지의 효율적 이용 및 안정적 관리도모",
+    "url": "http://www.newsfm.kr/news/article.html?no=9101"
+  },
+  {
+    "id": 11,
+    "year": 2025,
+    "projectname": "경영회생지원 농지매입 (융자)",
+    "budget": "233,700",
+    "eligibility": "ㅇ 재해피해율 50% 이상 또는 부채 4천만원 이상이고 자산대비 부채 비율이 40% 이상인 농업인(농업법인)",
+    "supportDetails": "ㅇ 매입농지 해당농가에 장기임대(7~10년)하고, 환매권을 보장",
+    "url": "https://www.ekr.or.kr/planweb/board/download.krc?fileUid=8a8bb352946e78960194bc167ada6a97&boardUid=402880317cc0644a017cc5ce02fc05b3"
+  },
+  {
+    "id": 12,
+    "year": 2025,
+    "projectname": "농촌인력중개센터",
+    "budget": "11,081",
+    "eligibility": "ㅇ 사업대상자 요건을 충족하는 운영 기관을 선정하는 등 적정한 사업계획을 수립한 지자체",
+    "supportDetails": "ㅇ 농촌인력중개센터 설치 및 운영을 지원하여 농업분야 근로인력 모집 및 필요 농가에 근로인력을 알선 중개하는 사업",
+    "url": "https://www.agriwork.kr/"
+  },
+  {
+    "id": 13,
+    "year": 2025,
+    "projectname": "농업 근로자 기숙사 건립지원",
+    "budget": 860,
+    "eligibility": "ㅇ 농업 분야 근로자 주거 여건 개선을 위해 건축물 사업부지가 확보(소유권, 지상권 등)된 지자체",
+    "supportDetails": "ㅇ 사업대상지 내 상･하수도, 오폐수 처리 시설, 전기통신 시설 등 기반조성비를 포함한 시설 건축비 또는 개･보수비",
+    "url": "https://www.gb.go.kr/Main/page.do?mnu_uid=6792&cmd=2&B_STEP=503233500"
+  },
+  {
+    "id": 14,
+    "year": 2025,
+    "projectname": "농기계임대사업소",
+    "budget": "6,750",
+    "eligibility": "ㅇ 농기계임대사업을 운영하거나 하려고 하는 지자체(시･군･구)",
+    "supportDetails": "ㅇ 임대농기계 보관창고 건축 및 임대농기계 구입비 지원",
+    "url": "https://agri.paju.go.kr/agri/agri_03/agri_03_05.jsp"
+  },
+  {
+    "id": 15,
+    "year": 2025,
+    "projectname": "농촌형교통모델",
+    "budget": "24,924",
+    "eligibility": "ㅇ 전국 82개군",
+    "supportDetails": "ㅇ 대중교통 여건이 열악한 지역에 버스,택시 등을 활용한 농촌형 교통서비스 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000058"
+  },
+  {
+    "id": 16,
+    "year": 2025,
+    "projectname": "영농도우미 지원",
+    "budget": "7,000",
+    "eligibility": "ㅇ 경작농지 5ha미만 농업인이, ① 사고로 또는 질병으로 2주 이상 진단을 받았거나 3일 이상 입원한 경우, ② 4대 중증질환(암, 심장질환, 뇌혈관질환, 희귀난치성질환) 진단을 받은 자로 최근 6개월 이내 통원치료를 받은 경우, ③ 제1∼2급 법정감염병 확진자 또는 접촉자로 의료기관으로부터 통보를 받아 격리 중인 경우, ④ ‘농업인 교육과정’에 1일 이상 참여한 여성농업인",
+    "supportDetails": "ㅇ영농도우미 1일 인건비(84천원)의 70%인 58.8천원 국고 지원(30% 농가자부담)\n  - 연간 최대 10일 지원",
+    "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10226000000&news_id=b9eb5e30-9173-47fe-aaac-02571aa4da7e"
+  },
+  {
+    "id": 17,
+    "year": 2025,
+    "projectname": "일반농산어촌개발",
+    "budget": "578,438",
+    "eligibility": "ㅇ 일반농산어촌지역 123개 시･군",
+    "supportDetails": "ㅇ 기초생활기반확충, 지역역량강화 등",
+    "url": "https://www.gn.go.kr/www/contents.do?key=1614"
+  },
+  {
+    "id": 18,
+    "year": 2025,
+    "projectname": "농촌공간정비",
+    "budget": "68,000",
+    "eligibility": "ㅇ 농업농촌및식품산업기본법 제3조제5호에 따른 농촌지역",
+    "supportDetails": "ㅇ 농촌 난개발 요소 정비 및 정비부지를 활용한 재생사업 지원",
+    "url": "https://www.asiatoday.co.kr/view.php?key=20250519010008679"
+  },
+  {
+    "id": 19,
+    "year": 2025,
+    "projectname": "청년농촌보금자리조성",
+    "budget": "15,200",
+    "eligibility": "ㅇ 농업농촌및식품산업기본법 제3조제5호에 따른 농촌지역",
+    "supportDetails": "ㅇ 단독주택형 임대주택단지(보육･문화･여가 활동을 위한 커뮤니티시설 포함) 조성 지원(개소당 90억원)",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148939435"
+  },
+  {
+    "id": 20,
+    "year": 2025,
+    "projectname": "농촌유휴시설활용지역활성화",
+    "budget": "2,770",
+    "eligibility": "ㅇ 시장,군수가 유휴시설을 100% 소유하고 있거나, 유휴시설의 소유자와 10년 이상 장기간 임대차계약 또는 사용계약을 체결한 경우",
+    "supportDetails": "ㅇ 유휴시설을 활용하기 위한 건축물 리모델링 사업비 지원(개소당 4.5억원)",
+    "url": "https://www.yeonggwang.go.kr/bbs/?b_id=news_data&site=headquarter_new&mn=9056&type=view&bs_idx=1136696"
+  },
+  {
+    "id": 21,
+    "year": 2025,
+    "projectname": "농번기돌봄지원",
+    "budget": "1,380",
+    "eligibility": "ㅇ (지역) 농촌지역 중 주말동안 영유아의 돌봄수요가 있는 지역\nㅇ (시설) 돌봄방 면적은 최소 39.6㎡이상(영유아 1인당 2.64㎡ 이상)\n  - 시설은 최소 5년이상 사용 가능해야 함(필요시 시설유지계약 체결)\nㅇ (운영) 보육을 위한 시설 및 인력이 확보되어, 사업추진 능력이 인정되는 경우\nㅇ 심사) 서류심사 및 현장실사를 통해 지원자격 및 지원 필요성이 인정된 경우\n  - 영유아의 돌봄수요, 시설확보 여부 등을 종합적으로 심사하여, 운영능력 및 지원 필요성이 인정되는 경우 지원대상으로 선정",
+    "supportDetails": "ㅇ 농번기 동안 주말돌봄방 운영 경비 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000056"
+  },
+  {
+    "id": 22,
+    "year": 2025,
+    "projectname": "농촌아이돌봄지원",
+    "budget": "1,996",
+    "eligibility": "ㅇ 읍･면 도서지역 중 3-10인 국공립 어린이집이거나 사회복지법인 어린이집",
+    "supportDetails": "ㅇ 운영비, 시설비 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000055"
+  },
+  {
+    "id": 23,
+    "year": 2025,
+    "projectname": "꾸러미사업지원",
+    "budget": 200,
+    "eligibility": "ㅇ 마을공동체 등 농업법인",
+    "supportDetails": "ㅇ 마을공동체의 꾸러미사업화 지원",
+    "url": "https://ader.naver.com/v1/lVs5Pr-sOEM7kvU9uREl9NIkEPNGkoCLorbpTptDprWHP19gtoQSNAAR8-6WiBV7UMXrC9zaTqLAQkrtusjNTpdCkiz9wydFkofGezcZ4lUaeNWaXfCxVSdwnN4d-BseDlCKRxYLPgZB520G9vWlY3At32zFF8mYHeon3uZHvmDKpET7Vkfw35jUM8SDYbWzIlYmqeXCQd5n_cMacj8KmpagPh4Cp25nCGvmZbavaBi-eQjuTfjvVxGCbUPpumQsO4HGFojRC6eexdKTIhqG1KjyIZBK6XSdkgZMfEzLfY0ei2vEdQQb7nR24mInvc6rd0uGUXb1YkwTNgbJ-kIg-OH7P8kIqp61g1mGvItuRY4DjZ_Tux1da66aC2STeqv80JBTMXVNFKLF3KHbpH6E1vXct_J5dJTF37O2Ap9zKrKNxMM3CaKf0nGrZhclM7ZSPYd5noTHYo61vQ-JdEJTgg==?c=naver.search.pc.plsearch&t=0"
+  },
+  {
+    "id": 24,
+    "year": 2025,
+    "projectname": "농촌돌봄활동지원",
+    "budget": "5,754",
+    "eligibility": "ㅇ 사회적 농업을 실천하고 있는 농촌지역 소재 조직 등",
+    "supportDetails": "ㅇ 사회적 농업 활동에 따른 운영비 등",
+    "url": "https://www.janews.co.kr/news/articleView.html?idxno=50093"
+  },
+  {
+    "id": 25,
+    "year": 2025,
+    "projectname": "농업환경보전프로그램",
+    "budget": "5,020",
+    "eligibility": "ㅇ 주민협의회 구성 및 행정담당자 지정 등이 갖춰진 사업대상 지역 마을",
+    "supportDetails": "ㅇ 주민활동비 및 사업관리운영비\nㅇ 전문지원조직 운영비",
+    "url": "https://www.nongsaro.go.kr/portal/ps/psb/psby/vodPlay.ps?mvpNo=2200"
+  },
+  {
+    "id": 26,
+    "year": 2025,
+    "projectname": "지역단위 푸드플랜 구축지원-먹거리통합지원센터 건립 지원",
+    "budget": "2,400",
+    "eligibility": "ㅇ 기초지자체",
+    "supportDetails": "ㅇ 먹거리통합지원센터 설치를 위한 건축･설계･감리･시설･장비, 부대시설 등 지원",
+    "url": "http://gzone.kr/cmmn/FileDown.do?atchFileId=232112&fileSn=73495"
+  },
+  {
+    "id": 27,
+    "year": 2025,
+    "projectname": "청년농업인영농정착지원금",
+    "budget": "83,370",
+    "eligibility": "ㅇ 만18세 이상 만 40세 미만, 독립영농경력 3년 이하인 청년농업인 등",
+    "supportDetails": "ㅇ 청년농업인영농정착지원 사업대상자에게 영농 초기 소득 보전을 위해 영농정착지원금 등을 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001117"
+  },
+  {
+    "id": 28,
+    "year": 2025,
+    "projectname": "청년창업농장학금",
+    "budget": "8,517",
+    "eligibility": "ㅇ 졸업 후 농식품분야 취창업 희망 대학생",
+    "supportDetails": "ㅇ 졸업 후 농식품분야 취창업 희망 대학생에게 장학금을 지원하여 농업분야 우수 후계인력 육성 및 농업인 교육비 부담을 경감하기 위하여 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000034"
+  },
+  {
+    "id": 29,
+    "year": 2025,
+    "projectname": "스마트팜 확산 교육 지원(현장실습형교육)",
+    "budget": "930",
+    "eligibility": "ㅇ 스마트팜 농가 및 스마트팜 교육을 희망하는 자",
+    "supportDetails": "ㅇ 농업 현장에서 즉시 적용할 수 있는 실습 중심의 스마트팜 교육과정 운영에 소요되는 교육비 지원",
+    "url": "https://www.rda.go.kr/young/custom/edu/view.do?sId=32557"
+  },
+  {
+    "id": 30,
+    "year": 2025,
+    "projectname": "전문농업경영체육성지원(현장실습교육 WPL)",
+    "budget": "2,626",
+    "eligibility": "ㅇ 농식품부 장관 지정 현장실습교육장(농업인 실습교육장, 학교･기관 실습교육장)",
+    "supportDetails": "ㅇ 현장실습교육에 소요되는 경비 지원",
+    "url": "https://www.yeongju.go.kr/open_content/main/page.do?mnu_uid=11025"
+  },
+  {
+    "id": 31,
+    "year": 2025,
+    "projectname": "예비농업인교육지원(농업계고교 교육지원)",
+    "budget": "1,530",
+    "eligibility": "ㅇ 농업계 고등학교",
+    "supportDetails": "ㅇ 농고 산업연계 교육과정에 소요되는 경비지원",
+    "url": "https://www.epis.or.kr/download/BASIC_ATTACH?storageNo=14568"
+  },
+  {
+    "id": 32,
+    "year": 2025,
+    "projectname": "농업계고교실습장지원",
+    "budget": "3,500",
+    "eligibility": "ㅇ 농업계 고등학교",
+    "supportDetails": "ㅇ 스마트팜 테스트베드(스마트축사 가능) 구축지원, 영농창업 인큐베이팅 시설지원, 실습장 시설 확충 및 개보수, 기자재･장비 구입 등 시설･장비 지원",
+    "url": "https://www.newsro.kr/article243/545841/"
+  },
+  {
+    "id": 33,
+    "year": 2025,
+    "projectname": "예비농업인교육지원(미래농업선도고교 지원)",
+    "budget": "3,510",
+    "eligibility": "ㅇ 농업계 고등학교",
+    "supportDetails": "ㅇ 교과･비교과 프로그램 및 취･창업 역량 강화 프로그램과 실습학년제 등 현장실습 지원",
+    "url": "https://www.epis.or.kr/download/BASIC_ATTACH?storageNo=10644"
+  },
+  {
+    "id": 34,
+    "year": 2025,
+    "projectname": "농업계대학실습장지원",
+    "budget": "2,100",
+    "eligibility": "ㅇ 농업계 대학교",
+    "supportDetails": "ㅇ 실습장 시설 확충 및 개보수, 기자재･장비 구입 등 시설･장비 지원",
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=21&nttNo=142067&key=99"
+  },
+  {
+    "id": 35,
+    "year": 2025,
+    "projectname": "농업계대학지원",
+    "budget": "2,389",
+    "eligibility": "ㅇ 농업계 대학교",
+    "supportDetails": "ㅇ 농대 미래전문농업경영인･융복합 과정운영에 소요되는 경비지원",
+    "url": "https://ader.naver.com/v1/SFt2VeOYYJhagqnPFRz_oc8rScRtuPw_GhMm4oZvsppGbqIhZxuRF-_InNuChyAF_E2s5RrHMa87ioebETCx_eNblvurOj4It_3Ib-mTKHYHspvw2kUP8xlQ7rC-2gWzHWqnIfWBQgIMjGc3q9eYZ-I07fYEkDuZvEC4WfZxwtk8m8G-jtMjQszryTewaX5UVEAzc2CUE8tkMjLHXACl_LppJG3oAoWblfCFjszQgfSW1nigRi4ReMGCKDjU44K_rQp1k8-Y0uQYOCsDWAWzOILkxfdFuUwLXXj3R7bjyrom4bFGl9hCm2GkBGQ34G9uhOghqIfDd-51AaxqxztnOdGrnaTOARIaga4Is9xLdYu7hegIgxPJk2tHnik6lHKCTJUourbKJR_zBdoNWjonkOvUhHMTsg0obsvxdDe6l4JasCiYaA3Tl1jaClYX3ylYsVE2S1z5fiImmWMig_KQE4g_ExaZ21p2iX__J9de9H5YZtGKVK5A72d2LJyVrjHNiiRW6gY34fQ2biKDRw88E6BL7PAPJCMP3fTXlvfjywrTYP4FC012bz9U52EjOoA75wR8C_ssXPo1dVkpehM_qoSCo5Ykf4UxXIaq78rtctlBvt_CT9LtWNNDPLCtVyTKjJMjfSySAogJI0YIsY-Ianz5ri6ceNfaAuIhtHDySD-Z7uM2J2q5x-QNe1BQgr4uyRsbvLLvR-2giYOitc6Zih3geckCkrcVOL_g9gXwbGUWeA9wIT5xEOw-xpYJtrXYwFlxp1fGbXPDJzUlxYcxBu4qlx1OQqmxZVEipmppo-fqnEoT_YeuB13KmIfrGaeKKczrY46Aep3aemcm2pH2Qw==?c=naver.search.pc.plsearch&t=0"
+  },
+  {
+    "id": 36,
+    "year": 2025,
+    "projectname": "영농창업특성화대학",
+    "budget": "5,683",
+    "eligibility": "ㅇ 농업계 대학",
+    "supportDetails": "ㅇ 교과･비교과 프로그램 및 취･창업 역량 강화 프로그램과 실습학년제 등 현장실습 지원",
+    "url": "https://knucals.kangwon.ac.kr/knucals/community/gallery.do?mode=view&articleNo=452722"
+  },
+  {
+    "id": 37,
+    "year": 2025,
+    "projectname": "졸업생 영농영어정착 우수과제사업 공모 지원",
+    "budget": 131,
+    "eligibility": "ㅇ 한농대 졸업생 또는 당해 연도(2월) 졸업 예정자\n  - 기 사업수행자 중복선정 불가",
+    "supportDetails": "ㅇ 농기계, 시설보수 등 초기 영농영어 정착을 위한 자본형성 지원",
+    "url": "https://www.af.ac.kr/planweb/board/download.9is?fileUid=402885997e00613e017ef6801bc249fa&boardUid=816ac6da51a3db470151b456063a04b5"
+  },
+  {
+    "id": 38,
+    "year": 2025,
+    "projectname": "전략작물산업화(가루쌀 시설･장비)",
+    "budget": "7,500",
+    "eligibility": "ㅇ 농업법인, 농협조직, 협동조합 등",
+    "supportDetails": "ㅇ 가루쌀 전문 생산단지 조성을 위한 시설･장비 비용 지원",
+    "url": "https://www.dangjin.go.kr/prog/soapClient/kor/sub01_01/view.do?not_ancmt_mgt_no=46810"
+  },
+  {
+    "id": 39,
+    "year": 2025,
+    "projectname": "전략작물산업화(밀 교육･컨설팅지원)",
+    "budget": "1,275",
+    "eligibility": "ㅇ 식량작물공동경영체 인정기준 사업 지원자격 및 요건 등을 충족한 농업법인, 농협조직, 협동조합",
+    "supportDetails": "ㅇ 공동영농에 대한 농가 인식전환과 경영체의 내실있는 운영 등 필요한 교육 및 컨설팅 비용 지원",
+    "url": "https://www.jeonnam.go.kr/M7116/boardView.do?seq=1958749&menuId=jeonnam0202000000"
+  },
+  {
+    "id": 40,
+    "year": 2025,
+    "projectname": "전략작물산업화(밀 건조･저장시설)",
+    "budget": "1,460",
+    "eligibility": "ㅇ 식량작물공동경영체 인정기준 사업 지원자격 및 요건 등을 충족한 농업법인, 농협조직, 협동조합",
+    "supportDetails": "ㅇ 밀 건조저장 시설 지원",
+    "url": "https://www.seogwipo.go.kr/info/news/notice.htm?act=view&seq=145197895"
+  },
+  {
+    "id": 41,
+    "year": 2025,
+    "projectname": "전략작물산업화(밀 시설･장비지원)",
+    "budget": "1,500",
+    "eligibility": "ㅇ 식량작물공동경영체 인정기준 사업 지원자격 및 요건 등을 충족한 농업법인, 농협조직, 협동조합",
+    "supportDetails": "ㅇ 밀 생산유통여건 개선에 필요한 시설장비 지원",
+    "url": "https://www.seogwipo.go.kr/local/daejeong/new.htm?act=download&seq=145266388&no=1"
+  },
+  {
+    "id": 42,
+    "year": 2025,
+    "projectname": "가뭄대비용수개발",
+    "budget": "11,800",
+    "eligibility": "ㅇ 시장･군수･구청장",
+    "supportDetails": "ㅇ 가뭄 우려가 발생한 지자체(시군구)에 관정개발, 간이양수장 설치,하천바닥 굴착, 양수급수(저류), 저수지 준설 등 가뭄대책비 지원",
+    "url": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2045556"
+  },
+  {
+    "id": 43,
+    "year": 2025,
+    "projectname": "농촌용수개발",
+    "budget": "251,348",
+    "eligibility": "ㅇ 한국농어촌공사(제주농업용수통합광역화 사업은 제주특별자치도)",
+    "supportDetails": "ㅇ 안정적인 농촌용수 공급체계를 구축하기 위한 저수지･양수장 등 수리시설 설치 사업 지원",
+    "url": "http://www.economy21.co.kr/news/articleView.html?idxno=1013166"
+  },
+  {
+    "id": 44,
+    "year": 2025,
+    "projectname": "농업용수 수질개선",
+    "budget": "31,054",
+    "eligibility": "ㅇ 한국농어촌공사, 시장･군수･구청장",
+    "supportDetails": "ㅇ 한국농어촌공사가 관리하는 관리목표인 Ⅳ등급 초과 호소에 인공습지, 침강지 등을 설치하는 수질개선 사업비 지원",
+    "url": "https://blog.naver.com/krcpolicy"
+  },
+  {
+    "id": 45,
+    "year": 2025,
+    "projectname": "배수개선",
+    "budget": "453,525",
+    "eligibility": "ㅇ 한국농어촌공사\nㅇ 농업생산기반 정비사업 시행자(시장･군수･구청장, 한국농어촌공사)",
+    "supportDetails": "ㅇ 상습침수 농경지에 배수장, 배수로 등 배수시설을 설치하기 위한 기본조사비 지원\nㅇ 상습침수 농경지에 배수장, 배수로 등 배수시설을 설치하기 위한 사업비 지원",
+    "url": "https://www.korea.kr/main.do?newsId=148926022"
+  },
+  {
+    "id": 46,
+    "year": 2025,
+    "projectname": "수리시설개보수",
+    "budget": "746,169",
+    "eligibility": "ㅇ 농업생산기반 정비사업 시행자(위탁 : 한국농어촌공사)",
+    "supportDetails": "ㅇ 수리시설개보수에 소요되는 공사비(자재대 포함), 용지매수 보상비 및 시설부대경비 등 사업비 지원",
+    "url": "http://www.newskr.kr/news/articleView.html?idxno=97964"
+  },
+  {
+    "id": 47,
+    "year": 2025,
+    "projectname": "국가지방관리방조제개보수",
+    "budget": "43,400",
+    "eligibility": "ㅇ 시설물관리자(한국농어촌공사, 시장･군수, 시도지사)",
+    "supportDetails": "ㅇ 재해예방 등을 위한 시설물 성능개선과 기능유지 및 내구연한 연장등을 위한 시설물 개보수 사업비 지원",
+    "url": "http://www.newscheck.co.kr/news/articleView.html?idxno=30611"
+  },
+  {
+    "id": 48,
+    "year": 2025,
+    "projectname": "논범용화용수공급체계구축",
+    "budget": 900,
+    "eligibility": "ㅇ 농업생산기반 정비사업 시행자(한국농어촌공사, 시장･군수)",
+    "supportDetails": "ㅇ 시설재배단지 내 용수공급을 위한 양수장, 정수시설 및 급수관로 설치",
+    "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2200857"
+  },
+  {
+    "id": 49,
+    "year": 2025,
+    "projectname": "스마트원예단지기반조성(시설원예기반조성)",
+    "budget": "5,935",
+    "eligibility": "ㅇ 노후온실단지 기반시설 개보수 또는 신규로 스마트원예단지를 조성하고자 하는 시･군･자치구",
+    "supportDetails": "ㅇ 부지정지, 용수, 전기, 도로 및 오폐수처리시설 등의 기반시설 지원",
+    "url": "https://www.goesan.go.kr/www/selectBbsNttView.do?key=1238&bbsNo=251&nttNo=121020"
+  },
+  {
+    "id": 50,
+    "year": 2025,
+    "projectname": "스마트팜 ICT융복합확산(온실신축 및 시설보급)",
+    "budget": "19,104",
+    "eligibility": "ㅇ 채소･화훼･특용작물 재배 농업인･농업법인･생산자단체\n  * 버섯, 인삼, 약용채소로 시설보급만 지원대상임(온실 신･개축 미지원)",
+    "supportDetails": "ㅇ 스마트팜 온실 신･개축 비용, 스마트팜 시설장비, 시설원예현대화 장비, 에너지절감시설 지원",
+    "url": "https://www.paju.go.kr/component/file/ND_fileDownload.do?id=c468bd1b-bfbb-42ab-ac6d-0ff1b24d02f6"
+  },
+  {
+    "id": 51,
+    "year": 2025,
+    "projectname": "스마트팜 ICT융복합확산 스마트팜 ICT융복합확산(사업운영비 및 컨설팅)",
+    "budget": 427,
+    "eligibility": "ㅇ 채소･화훼･특용작물 재배 농업인･농업법인･생산자 단체\n  * 버섯, 인삼, 약용채소로 시설보급만 지원대상임(온실 신･개축 미지원)",
+    "supportDetails": "ㅇ 사업운영비 및 스마트팜 시설 장비 컨설팅(사전, 설치) 비용 지원",
+    "url": "https://www.gb.go.kr/Main/common/board/download.do?B_STEP=73641200&B_ORDER=1"
+  },
+  {
+    "id": 52,
+    "year": 2025,
+    "projectname": "(농업분야)신재생에너지시설 지원",
+    "budget": "17,363",
+    "eligibility": "ㅇ 채소･화훼･버섯류 재배, 돼지･닭･오리 사육 농업인･농업법인･생산자단체, 농업인 교육 연구 및 영농편의 도모를 위해 설치･운영하고자 하는 시･군･자치구",
+    "supportDetails": "ㅇ 지열･폐열･공기열 냉난방시설, 목재펠릿 난방기, 재생에너지 공동이용을 위한 기반시설 지원\n  * 지열 천공, 열교환기, 폐열 이송배관, 열원 저장시설 등",
+    "url": "http://www.agrinet.co.kr/news/articleView.html?idxno=325066"
+  },
+  {
+    "id": 53,
+    "year": 2025,
+    "projectname": "저탄소에너지공동이용시설",
+    "budget": "1,680",
+    "eligibility": "ㅇ 집단화된 원예단지에 재생에너지 공동이용시설을 설치하고자 하는 시･군･자치구",
+    "supportDetails": "ㅇ 지열 천공, 열교환기, 폐열･수열 이송배관, 축분고체연료난방시설, 열원 저장시설 등 재생에너지 공동이용을 위한 기반시설",
+    "url": "http://www.domin.co.kr/news/articleView.html?idxno=1442019"
+  },
+  {
+    "id": 54,
+    "year": 2025,
+    "projectname": "고추비가림재배시설 지원",
+    "budget": "2,079",
+    "eligibility": "ㅇ 건고추를 재배 또는 재배하는 자로 농업경영체 등록한 농업인, 농업법인",
+    "supportDetails": "ㅇ 고추비가림하우스시설(관수, 환경관리시설포함)",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000015802"
+  },
+  {
+    "id": 55,
+    "year": 2025,
+    "projectname": "밭작물공동경영체육성지원",
+    "budget": "9,680",
+    "eligibility": "ㅇ 자치단체 : 농업법인, 농협, 협동조합\n  - 지자체의 수립･승인된 원예산업발전계획 내 사업신청 품목이 전략(육성) 품목으로 지정 필요\nㅇ 행정경비 : 한국농수산식품유통공사",
+    "supportDetails": "ㅇ 자치단체 : 밭작물공동경영체에 생산자 조직화･규모화를 위한 역량강화, 생산비절감, 품질관리 등에 필요한 교육, 컨설팅, 시설･장비 등 맞춤형 지원\nㅇ 행정경비 : 밭작물공동경영체 운영 지원 및 관리를 위한 평가, 점검 등 행정경비",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000110"
+  },
+  {
+    "id": 56,
+    "year": 2025,
+    "projectname": "채소가격안정지원",
+    "budget": "55,190",
+    "eligibility": "ㅇ 당해연도 계약재배 사업대상자이고, 해당 품목 주산지협의체에 참여한 농업인, 농협(지역･품목), 법인(영농조합･조합공동사업･농업회사) 및 최근 3년간 사업참여 희망 품목의 연평균 계통 출하실적이 5천톤 이상으로 소속 산지유통인의 출하관리가 가능한 산지유통법인",
+    "supportDetails": "ㅇ 가격차보전(평년 도매가격의 80% 이하 하락 시), 사전면적조절･출하정지 시 약정 비용, 출하장려금(운송비, 작업비 등) 등 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000153"
+  },
+  {
+    "id": 57,
+    "year": 2025,
+    "projectname": "과수생산시설현대화 지원",
+    "budget": "27,125",
+    "eligibility": "ㅇ 원예산업발전계획에 참여하는 농가 또는 농업법인 등 ",
+    "supportDetails": "ㅇ 생산비용절감과 품질고급화 촉진을 위해 비가림시설, 관수시설, 방풍･방조시설 등 생산시설 현대화를 지원",
+    "url": "https://www.news1.kr/local/jeonbuk/5590661"
+  },
+  {
+    "id": 58,
+    "year": 2025,
+    "projectname": "과수분야스마트팜확산",
+    "budget": 840,
+    "eligibility": "ㅇ ICT 융복합 시설 적용이 가능한 과수재배 농업경영체",
+    "supportDetails": "ㅇ 사업별 지원단가는 실단가를 적용, 사업비 상한액 기준은 200백만원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000325"
+  },
+  {
+    "id": 59,
+    "year": 2025,
+    "projectname": "과실전문생산단지 기반조성비 지원",
+    "budget": "22,613",
+    "eligibility": "ㅇ 과수주산지 중 집단화된 지구로 사업규모가 30ha 이상이며, 사업수혜농가들이 사업시행주체(지원대상 조직)에 5년 이상 생산량의 80% 이상을 출하약정한 지구",
+    "supportDetails": "ㅇ 경쟁력 있는 과수생산 거점으로 육성하기 위해 집단화된 생산단지, 수출전문단지를 대상으로 생산기반 정비를 지원",
+    "url": "http://www.knnews.co.kr"
+  },
+  {
+    "id": 60,
+    "year": 2025,
+    "projectname": "과원규모화",
+    "budget": "29,662",
+    "eligibility": "ㅇ 과원매도･임대대상자\n  - 비농가, 전업(轉業)･은퇴 또는 과원규모를 축소하는 농가, 비농업법인 등\nㅇ 과원매입･임차대상자\n  - 과수전업농육성대상자, 2030세대, 과수를 주작목으로 설립된 법인 등",
+    "supportDetails": "ㅇ 과원 매매 및 임대차를 위한 융자 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000010100"
+  },
+  {
+    "id": 61,
+    "year": 2025,
+    "projectname": "과수인공수분용꽃가루생산단지조성",
+    "budget": 725,
+    "eligibility": "ㅇ 과수인공수분용 꽃가루 채취단지 조성에 필요한 토지를 소유하고 있거나 임차 등을 통해 과원 확보 가능한 지자체, 농협, 농업법인 등",
+    "supportDetails": "ㅇ 꽃가루 채취단지 기반조성, 꽃가루 채취 및 발아율 검증 장비 구입, 관리시설 설치 등",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000323"
+  },
+  {
+    "id": 62,
+    "year": 2025,
+    "projectname": "산업식품용햄프산업클러스터조성",
+    "budget": "1,250",
+    "eligibility": "ㅇ 햄프의 생산기반 확충을 위한 생산자조직 구성, 계약재배 및 수매, 기술지원, 인지도 및 판로 등 제반 인프라 확보가 가능한 지자체\nㅇ 햄프 산업 클러스터 조성을 위한 부지 및 지방비를 확보하였거나 확보가 가능한 지자체\nㅇ 햄프 산업화를 위한 시설 및 산･학･연 클러스터 형성이 가능하며 사업수행을 위한 인력 확보가 가능한 지자체",
+    "supportDetails": "ㅇ 지역단위의 공동 전처리시설 설치･운영으로 햄프 원료의 품질 균일성 및 공급 안정성을 제고하고, 가공기업의 설비투자 부담 저감",
+    "url": "http://www.hgnews.co.kr/default/index_view_page.php?part_idx=309&idx=52035"
+  },
+  {
+    "id": 63,
+    "year": 2025,
+    "projectname": "저온유통체계구축(화훼류습식유통)",
+    "budget": 70,
+    "eligibility": "ㅇ 공판장에 출하하는 화훼재배농가 및 생산자단체",
+    "supportDetails": "ㅇ 습식유통에 필요한 기자재 지원",
+    "url": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=55626"
+  },
+  {
+    "id": 64,
+    "year": 2025,
+    "projectname": "특용작물시설현대화(인삼)",
+    "budget": "1,260",
+    "eligibility": "ㅇ 의무자조금을 납부하고 농업경영체에 등록한 인삼 재배(하려는)하는 농업인 또는 농업법인",
+    "supportDetails": "ㅇ 철재해가림시설 등 인삼 내재해시설, 인삼 생산에 필요한 시설 및 장비 지원",
+    "url": "https://www.rda.go.kr/young/content/content14.do"
+  },
+  {
+    "id": 65,
+    "year": 2025,
+    "projectname": "특용작물시설현대화(버섯, 녹차, 약용 등)",
+    "budget": "1,460",
+    "eligibility": "ㅇ 농업인, 농업법인, 생산자단체 등",
+    "supportDetails": "ㅇ 버섯류, 특용작물에 대하여 신성장 동력 산업으로 육성하기 위한 재배시설 개･보수 및 생산기기 구입･교체 등 현대화 지원",
+    "url": "https://www.oc.go.kr/agri/downloadBbsFile.do?atchmnflNo=271774"
+  },
+  {
+    "id": 66,
+    "year": 2025,
+    "projectname": "특용작물산업화지원센터",
+    "budget": "4,050",
+    "eligibility": "ㅇ 특용작물산업화지원센터 건립을 위한 부지 및 지방비 확보가 가능한 지자체\nㅇ 특용작물 연구개발 및 우수 특용작물종자 보급 기반을 조성하여 원료 공급지로 생산기반이 구죽되어 발전 가능성이 높은 지자체\nㅇ 특용작물산업화를 위한 시설 및 산･학･연 클러스터 형성이 가능하며, 사업수행을 위한 인력 확보가 가능한 지자체",
+    "supportDetails": "ㅇ 특용작물산업화지원센터 구축을 위한 시설 및 장비",
+    "url": "https://www.news700.kr/9496"
+  },
+  {
+    "id": 67,
+    "year": 2025,
+    "projectname": "버섯배지관리센터",
+    "budget": 500,
+    "eligibility": "ㅇ 생산자단체(농협, 버섯배지 및 버섯생산 관련 법인 또는 조합)\n  - (배지원료공급센터) 농업인 15인 이상 참여 및 자본금 1억원 이상 법인\n  - (수확후배지 재활용센터) 농업인 5인 이상 참여 및 자본금 1억원 이상 법인",
+    "supportDetails": "ㅇ 버섯배지관리센터(배지원료공급센터, 수확후배지 재활용센터)",
+    "url": "https://www.hongcheon.go.kr/www/downloadBbsFile.do?key=1709&bbsNo=140&atchmnflNo=80337"
+  },
+  {
+    "id": 68,
+    "year": 2025,
+    "projectname": "유통시설현대화",
+    "budget": 510,
+    "eligibility": "ㅇ 협, 영농조합법인, 농업회사법인, 조합공동사업법인, 유통법인 등",
+    "supportDetails": "ㅇ 상품성 향상 및 부가가치 제고를 위해 노후화된 선별･포장시설 등 상품화시설을 대상으로 규모화･현대화를 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000326"
+  },
+  {
+    "id": 69,
+    "year": 2025,
+    "projectname": "농산물산지유통센터지원",
+    "budget": "21,000",
+    "eligibility": "ㅇ 지자체, 생산유통 통합조직(승인형, 육성형)",
+    "supportDetails": "ㅇ 농산물산지유통센터(APC) 신축 및 개보수에 필요한 비용 지원",
+    "url": "https://www.busan.go.kr/expdetail/view?curPage=247&schYear=2025&schDbiz=6260000202530030"
+  },
+  {
+    "id": 70,
+    "year": 2025,
+    "projectname": "채소류 출하조절시설 지원",
+    "budget": "5,200",
+    "eligibility": "ㅇ 출하조절시설 지원･관리 또는 출하조절시설 운영계획을 지자체 원예산업발전계획에 포함하거나 연도 내 포함할 계획이 있는 지자체(의무자조금 가입대상 품목의 경우 거출금 납부를 하지 아니한 업체는 사업대상에서 제외)\n  * 대상 품목: 노지채소류 중 주요 생산 및 가격 변동이 심해 출하 조절을 통한 수급안정이 필요하다고 인정되는 품목(배추, 무, 건고추, 마늘, 양파)",
+    "supportDetails": "ㅇ 저온저장시설, 예냉･예건시설, 가공시설 및 장비, 위생설비 및 장비, 선별시설, 포장장비 등",
+    "url": "https://www.gongju.go.kr/bbs/BBSMSTR_000000000827/view.do?nttId=B000000337400Pm9wC7w"
+  },
+  {
+    "id": 71,
+    "year": 2025,
+    "projectname": "과수거점산지유통센터 건립 지원",
+    "budget": "3,606",
+    "eligibility": "ㅇ 저온저장시설, 예냉･예건시설, 가공시설 및 장비, 위생설비 및 장비, 선별시설, 포장장비 등",
+    "supportDetails": "ㅇ 소규모 유통시설 계열화의 중심축으로 육성하고 산지 마케팅 경쟁력 및 교섭력 증대를 위해 과수 주산지역을 대상으로 규모화･현대화된 산지유통시설을 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000066"
+  },
+  {
+    "id": 72,
+    "year": 2025,
+    "projectname": "인삼특용작물유통시설지원",
+    "budget": 126,
+    "eligibility": "ㅇ 일정 시설규모 이상 및 인삼을 연간 60톤이상 규모로 생산할 수 있는 생산단지를 갖춘 생산자단체 등\nㅇ 일정 시설규모 이상 및 인삼을 연간 60톤이상 규모로 생산할 수 있는 생산단지를 갖춘 생산자단체 등",
+    "supportDetails": "ㅇ 인삼 생산 주산지를 대상으로 조직화 규모화를 위한 생산･가공･유통시설 현대화 지원\nㅇ 인삼 생산 주산지를 대상으로 조직화 규모화를 위한 생산･가공･유통시설 현대화 컨설팅 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000017"
+  },
+  {
+    "id": 73,
+    "year": 2025,
+    "projectname": "산지저온시설 및저온수송차량",
+    "budget": "3,614",
+    "eligibility": "ㅇ 사업시행주체 중 농가와의 게약재배, 매취, 수탁, 수출 등을 통한 원예농산물 취급액(전년 또는 전전년)이 연각 5억원 이상인 법인 \n  - 김치가공업체는 농가와 직접 계약재배를 통해 5천만원 이상 원료(배추, 무)를 사용한 농업법인(산지유통인과의 계약재배 실적은 불포함)",
+    "supportDetails": "ㅇ 산지저온시설 : 예냉설비, 저온저장고, 저온설별장의 신규 설치 및 개보수\nㅇ 저온수송차량 : 원예농산물 수송용 냉장탑차(일반 및 PCM충냉식) 신규 구입 및 개조",
+    "url": "https://www.mokpo.go.kr/www/mokpo_news/notice?idx=517433&mode=view"
+  },
+  {
+    "id": 74,
+    "year": 2025,
+    "projectname": "공동선별비지원",
+    "budget": "3,512",
+    "eligibility": "ㅇ 생산유통 통합조직(출자출하조직 포함)",
+    "supportDetails": "ㅇ 농산물공동선별 소요비용의 일부 지원",
+    "url": "https://www.jeongeup.go.kr/board/view.jeongeup?boardId=BBS_0000012&dataSid=1258447"
+  },
+  {
+    "id": 75,
+    "year": 2025,
+    "projectname": "물류기기공동이용지원사업",
+    "budget": "10,404",
+    "eligibility": "ㅇ 농협조직 및 지원대상 품목의 생산자단체, 농업법인, 공영도매시장 또는 농협공판장에 등록한 산지유통인",
+    "supportDetails": "ㅇ 농산물 출하시 수송용 팰릿, 플라스틱상자, 다단식 목재상자 등 물류기기 임차비용 일부 지원",
+    "url": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=568512"
+  },
+  {
+    "id": 76,
+    "year": 2025,
+    "projectname": "도매유통활성화지원(화훼유통개선)",
+    "budget": "9,000",
+    "eligibility": "ㅇ 선도금\n  - (화훼농가 및 생산자단체) 화훼공판장에 등록된 출하농가 및 생산자단체\nㅇ 결제자금\n  - (중도매인, 매매참가인) 화훼공판장에 등록된 중도매인, 매매참가인, 최근 6개월 이내 업무정지를 1개월 이상 받지 않은 자\n  - (소매유통업체) 화훼공판장에 등록된 중도매인 및 매매참가인으로부터 화훼를 구입하여 판매하는 소매유통업체 중 자체사업장을 갖추고 있는 업체",
+    "supportDetails": "ㅇ 화훼농가 출하선도･유치자금, 중도매인의 화훼공판장 경매물량 구매자금, 소매유통업체의 공판장에 등록된 중도매인 또는 매매참가인으로부터 화훼류 구매자금",
+    "url": "http://www.agrinet.co.kr/news/articleView.html?idxno=327701"
+  },
+  {
+    "id": 77,
+    "year": 2025,
+    "projectname": "도서지역 내륙거점 통합물류운영지원",
+    "budget": "1,850",
+    "eligibility": "ㅇ 통합마케팅조직, 산지유통혁신조직에 참여하는 도서지역 내 생산자단체(농협, 농업법인 등)",
+    "supportDetails": "ㅇ 도서지역에서 생산되는 원예농산물을 온라인, 산지경매 등을 통해 내륙거점 통합물류로 출하하는 경우 내륙지선 물류비, 운영비 일부 지원",
+    "url": "http://www.agrinet.co.kr/news/articleView.html?idxno=324316"
+  },
+  {
+    "id": 78,
+    "year": 2025,
+    "projectname": "농산물 공영도매시장 상품화 기능 확대",
+    "budget": "3,600",
+    "eligibility": "ㅇ 도매시장 개설자",
+    "supportDetails": "ㅇ 소분･재포장 시설 건립에 필요한 토목, 건축공사, 전기, 상품화 기능 확대에 필요한 설비･장치류 구축 비용 지원 ",
+    "url": "https://www.kenews.co.kr/news/article.html?no=86993"
+  },
+  {
+    "id": 79,
+    "year": 2025,
+    "projectname": "산지유통활성화지원(융자)",
+    "budget": "320,000",
+    "eligibility": "ㅇ 생산유통 통합조직(출자출하조직 포함)",
+    "supportDetails": "ㅇ 원물확보자금(계약금, 중도금, 선지급금, 잔금) 지원",
+    "url": "https://www.mafra.go.kr/bbs/mafra/55/232436/download.do"
+  },
+  {
+    "id": 80,
+    "year": 2025,
+    "projectname": "유통협약명령",
+    "budget": 400,
+    "eligibility": "ㅇ 농수산물 유통 및 가격안정에 관한 법률 제10조에 따른 유통협약 또는 유통명령을 이행한 생산자 단체 등",
+    "supportDetails": "ㅇ 유통협약 또는 유통명령 이행에 수반되는 비용의 일부 또는 전부를 필요에 따라 지원\n  * 산지폐기 비용, 출하비용, 협약 및 명령 이행 관리를 위한 경비 등이 지원 대상이며, 수매, 시설지원, 폐원 등은 지원 대상에서 제외",
+    "url": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1009057189"
+  },
+  {
+    "id": 81,
+    "year": 2025,
+    "projectname": "자조금지원",
+    "budget": "13,110",
+    "eligibility": "ㅇ 농산 자조금단체(의무, 임의)\n  - 농수산자조금의 조성 및 운용에 관한 법률에 따라 설립 및 운영하는 자조금단체\nㅇ 한국농수산식품유통공사",
+    "supportDetails": "ㅇ 품목별 자조금단체의 자율적 수급안정, 품질향상, 소비촉진, 수출활성화 등 사업비 지원\nㅇ 품목별 자조금단체 운영 지원 및 관리를 위한 평가, 점검 등 행정경비",
+    "url": "http://www.mbn.co.kr"
+  },
+  {
+    "id": 82,
+    "year": 2025,
+    "projectname": "농식품거래소 지원(온라인 직거래 기반 육성)",
+    "budget": 870,
+    "eligibility": "ㅇ APC 보유 생산자단체",
+    "supportDetails": "ㅇ 온라인 직거래에 필요한 장비, 컨설팅, 홍보, 고객관리, 운송비 등",
+    "url": "https://www.mafra.go.kr/home/5109/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaG9tZSUyRjc5MiUyRjU2NTA3OCUyRmFydGNsVmlldy5kbyUzRg%3D%3D"
+  },
+  {
+    "id": 83,
+    "year": 2025,
+    "projectname": "과실브랜드 육성",
+    "budget": 540,
+    "eligibility": "ㅇ (전국공동브랜드) 전국, 광역 단위 브랜드 경영체\nㅇ (지역공동브랜드) 지자체 단위 브랜드 경영체",
+    "supportDetails": "ㅇ 다국적 과실 브랜드와 경쟁할 수 있는 국내과실을 대표할 공동브랜드 육성하기 위해 전국공동브랜드 전문경영체 육성을 지원\nㅇ 다국적 과실 브랜드와 경쟁할 수 있는 국내과실을 대표할 공동브랜드 육성하기 위해 지역 공동브랜드 전문경영체 육성을 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000067"
+  },
+  {
+    "id": 84,
+    "year": 2025,
+    "projectname": "농산물 직거래장터 운영",
+    "budget": "1,350",
+    "eligibility": "ㅇ 농업 관련 기관 및 법인",
+    "supportDetails": "ㅇ 직거래장터 운영비 지원",
+    "url": "https://www.joongdo.co.kr/web/view.php?key=20250519010005597"
+  },
+  {
+    "id": 85,
+    "year": 2025,
+    "projectname": "산지조직지원(생산유통 통합조직)",
+    "budget": 805,
+    "eligibility": "ㅇ 생산유통 통합조직(승인형)",
+    "supportDetails": "ㅇ 농가 조직화, 상품 개발, 홍보 및 마케팅에 소요되는 비용 지원",
+    "url": "http://www.aflnews.co.kr/news/articleView.html?idxno=263998"
+  },
+  {
+    "id": 86,
+    "year": 2025,
+    "projectname": "축사시설현대화",
+    "budget": 475,
+    "eligibility": "ㅇ 농협경제지주",
+    "supportDetails": "ㅇ 축사시설현대화 자금수혜농가에 대한 성과분석으로 지원효과 분석 및 향후 사업지원 개선방안 수립",
+    "url": "https://www.110.go.kr/data/faqView.do?num=62511"
+  },
+  {
+    "id": 87,
+    "year": 2025,
+    "projectname": "축산분야 ICT 융복합지원",
+    "budget": "21,357",
+    "eligibility": "ㅇ ICT 융복합 장비 적용이 가능하다고 사업주관기관(지자체)이 판단한 농업경영체 ",
+    "supportDetails": "ㅇ 현대화된 시설을 갖춘 축산 농가에 스마트 축산 ICT 융복합 장비 설치시 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000337"
+  },
+  {
+    "id": 88,
+    "year": 2025,
+    "projectname": "젖소 육성우 전문목장 지원사업",
+    "budget": "3,200",
+    "eligibility": "ㅇ 낙농조합, 지역축협, 낙농가 5인 이상이 구성한 공동출자법인",
+    "supportDetails": "ㅇ 농가에서 육성우 전문관리 목장에 출산 직전까지 송아지 사육을 위탁\nㅇ 체계화된 육성우 사양관리를 통해 경제수명을 연장하여, 농가의 생산비 절감 및 가격경쟁력 제고",
+    "url": "https://www.buyeo.go.kr/_prog/_board/?mode=V&no=qDgg-jjoEHfVCc1U-OAFjg&code=news_06&site_dvs_cd=kr&menu_dvs_cd="
+  },
+  {
+    "id": 89,
+    "year": 2025,
+    "projectname": "축산물수급안정(송아지 생산안정 지원)",
+    "budget": 200,
+    "eligibility": "ㅇ 송아지를 생산하는 한우 농가",
+    "supportDetails": "ㅇ 송아지가격이 기준가격 이하로 하락시 보전금 지원",
+    "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156551892"
+  },
+  {
+    "id": 90,
+    "year": 2025,
+    "projectname": "CCTV 등 방역인프라(말벌퇴치장비 지원사업)",
+    "budget": 100,
+    "eligibility": "ㅇ 양봉농가",
+    "supportDetails": "ㅇ 말벌 퇴치 장비를 양봉농가에 지원하여 안정적인 양봉업 영위 및 농가소득 증대 유도",
+    "url": "https://www.wanju.go.kr/planweb/board/download.9is?fileUid=4028a6028d7e94de018daec0d0e27532&boardUid=ff8080818a49961a018ab011af3543bc"
+  },
+  {
+    "id": 91,
+    "year": 2025,
+    "projectname": "우수 여왕벌 보급 경상지원",
+    "budget": 600,
+    "eligibility": "ㅇ 양봉농가",
+    "supportDetails": "ㅇ 양봉농가의 응애, 꿀벌질병 등 피해 발생 완화 및 생산성 향상을 위한 질병 저항성 및 수밀력이 우수한 여왕벌 구입비용 지원",
+    "url": "https://eminwon.pohang.go.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=2025%EB%85%84%20%EC%9A%B0%EC%88%98%EC%97%AC%EC%99%95%EB%B2%8C%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EC%8B%9C%ED%96%89%EC%A7%80%EC%B9%A8.hwp&sys_file_nm=2025%EB%85%84%20%EC%9A%B0%EC%88%98%EC%97%AC%EC%99%95%EB%B2%8C%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EC%8B%9C%ED%96%89%EC%A7%80%EC%B9%A8_ofr_ofr_%40JB1jh5D6pxE9QBO_20250913175955509_1.hwp&file_path=%2Fntishome%2Ffile%2Fupload%2Fofr%2Fofr%2F20250913"
+  },
+  {
+    "id": 92,
+    "year": 2025,
+    "projectname": "축산악취개선",
+    "budget": "7,560",
+    "eligibility": "ㅇ ｢축산법｣ 제22조에 따른 축산업의 허가를 받거나 등록을 한 농업인 및 농업법인 등",
+    "supportDetails": "ㅇ 가축분뇨 처리 및 악취저감에 필요한 시설･장비\n  - 가축분뇨처리시설: 퇴･액비화, 정화처리, 에너지화 시설･장비 등\n  - 악취저감시설･장비: 바이오커튼, 안개분무시설, 바이오필터 등\n  - 부대기계･장비: 로더, 고액분리기, 퇴･액비 운반차량 등",
+    "url": "https://ader.naver.com/v1/p1ewFzul0jitTm3Wl16bITW_O_DwAIvXBoaEJEsAPoEUHtHRdMAeJCy1WtBLG22EuBSpqVniYkYKbA9iiezwFCsm9yXYG9xP1s3kOEHHl-w0uVKzheBzvE0XzjF34E5rLHmJjjbjoqCZVvQeEXLcJemp0-LpRY1nMIbzK0l70GVVAuU9umkY77uq0M_eESvyWJKAhWoy6Dqk0rJxI7O0yxVY8CTH6Z1Rl0vKo_SQtsIYYThEKSVrM-CZw_ta8lYvpBra_wzSgF9LhEhtrpP1M2TPHt29tpcUH9575X661TZJOEDDSAyn0OgEgeoPkrZgnUWmC_TkC-552jga-o2O4jauundESzg3GAwESHkJMDlZdK--kVUG-orhTw29lt1kST4sQBqjXed_bOsGuHRodpnd6hwHze23RDwFxeEq08Fu8rREKEuu-0kM3g2-BkQ6f6UtvJVv-nleKRsiBDWsDa6oOAzw8oA2aJWzGfaMJyf8TYxi8nTsFnGuPvMZLNa-O9BEssdI7SXKZDJIej6Vs2aWk_tIcO8Z47rY60cjNM4nUTxON9hOVTwAxiHJ1sD4?c=naver.search.pc.plsearch&t=0"
+  },
+  {
+    "id": 93,
+    "year": 2025,
+    "projectname": "악취측정ICT기계장비",
+    "budget": 500,
+    "eligibility": "ㅇ 축산악취개선사업 및 공동자원화시설 신규･개보수 사업에 참여하거나 축산악취 민원이 많은 취약지역의 지방자치단체장\n  - 축산악취개선사업 등을 통하여 악취저감시설을 설치한 농가･시설에 악취측정 ICT 기계･장비 우선 설치",
+    "supportDetails": "ㅇ 축산환경 정보(악취, 온도, 습도 등) 감지센서 및 측정정보의 모니터링･분석을 위한 통신장비 등을 갖춘 기계･장비",
+    "url": "https://www.jp.go.kr/da/cmm/fms/FileDown.do?atchFileId=F00000024264zz5hQ1lc&fileSn=1"
+  },
+  {
+    "id": 94,
+    "year": 2025,
+    "projectname": "공동자원화 에너지화(공동자원화시설 신규)",
+    "budget": "15,012",
+    "eligibility": "ㅇ ｢가축분뇨의 관리 및 이용에 관한 법률｣ 제2조에 따른 생산자단체, ｢농어업경영체 육성 및 지원에 관한 법률｣ 제2조에 따른 농업법인(영농조합법인, 농업회사법인), ｢축산법｣ 제22조에 따른 축산업의 허가를 받거나 등록을 한 자, ｢공공기관의 운영에 관한 법률｣ 제2조에 따른 공공기관, 민간기업(상법상 법인), 지방자치단체(시･군･구, 공공형 통합 바이오에너지화시설에 한함)",
+    "supportDetails": "ㅇ 퇴액비화 및 에너지화(바이오가스, 고체연료･바이오차 등)를 위한 시설･장비 등 지원",
+    "url": "http://www.industrynews.co.kr/news/articleView.html?idxno=52748"
+  },
+  {
+    "id": 95,
+    "year": 2025,
+    "projectname": "공동자원화개보수",
+    "budget": "1,600",
+    "eligibility": "ㅇ 증축: 준공일로부터 3년 이상 가동 시설\nㅇ 개보수: 준공일로부터 5년 이상 가동 시설",
+    "supportDetails": "ㅇ 자원화시설 증축 및 개보수 자금 지원",
+    "url": "https://www.wanju.go.kr/planweb/board/download.9is?fileUid=4028a6028d7e94de018daec2896c7581&boardUid=ff8080818a49961a018ab011af3543bc"
+  },
+  {
+    "id": 96,
+    "year": 2025,
+    "projectname": "공동자원화 마을형퇴비저장시설",
+    "budget": 400,
+    "eligibility": "ㅇ 신규: 가축분뇨 처리계획을 수립한 지자체 내 퇴비유통전문조직, 농･축협, 농업법인(영농조합법인, 농업회사법인) 등\nㅇ 연계: 기존 사업의 지원을 받아 설치･운영 중인 마을형 퇴비저장시설",
+    "supportDetails": "ㅇ 퇴비저장시설, 고체연료 생산시설, 바이오차 생산시설, 악취저감시설 등",
+    "url": "https://www.wanju.go.kr/planweb/board/download.9is?fileUid=4028a6028d7e94de018daec289727583&boardUid=ff8080818a49961a018ab011af3543bc"
+  },
+  {
+    "id": 97,
+    "year": 2025,
+    "projectname": "가축분뇨이용촉진",
+    "budget": "3,200",
+    "eligibility": "ㅇ 경작 및 축산농각간 액비유통계약을 체결하는 등 사업계획을 명확하게 수립한 유통전문조직\n  - 전년도 운영실적에 대해 자원화조직체 점검을 받아야 함\n  - 축산농가 관리, 살포농경지 및 살포량에 대하여 AgriX에 의해 관리\n  - 농식품부 주관 가축분뇨 자원화 기술교육 등 연간 5시간이상 이수",
+    "supportDetails": "ㅇ 퇴비 및 액비 살포비\nㅇ 고체연료, 바이오차 등 이용촉진비",
+    "url": "https://www.iksan.go.kr/board/download.iksan?boardId=BBS_DONG_NOTI&dataSid=1158882&fileSid=286717"
+  },
+  {
+    "id": 98,
+    "year": 2025,
+    "projectname": "자연순환농업활성화",
+    "budget": "6,125",
+    "eligibility": "ㅇ 경종･축산 조직 간 자연순환농업 협약식을 체결한 농･축협, 영농조합법인 등\nㅇ 가축분뇨 퇴액비, 바이오차 생산 및 이용과 관련된 사업을 추진하고 경종과 연계된 사업계획을 수립한 농･축협, 영농조합법인 등",
+    "supportDetails": "ㅇ 퇴액비, 바이오차 이용 활성화 자금을 융자로 지원(단, 총사업비 30% 자부담 원칙)",
+    "url": "https://www.yeoncheon.go.kr/www/selectBbsNttView.do?key=3391&bbsNo=13&nttNo=84034"
+  },
+  {
+    "id": 99,
+    "year": 2025,
+    "projectname": "낙농통계관리시스템운영",
+    "budget": 600,
+    "eligibility": "ㅇ (사)낙농진흥회",
+    "supportDetails": "ㅇ 낙농 관련 통계조사(생산, 가공, 유통, 소비)에 필요한 자금 지원 및 소비분석 지원",
+    "url": "https://www.krei.re.kr/support/board/atchDown.do?no=89916"
+  },
+  {
+    "id": 100,
+    "year": 2025,
+    "projectname": "비육용 암소시장 육성",
+    "budget": "1,200",
+    "eligibility": "ㅇ 시술 당시 14개월령 이하 한우 암소",
+    "supportDetails": "ㅇ 난소결찰 비용의 일부 지원(마리당 6만원)",
+    "url": "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/view/?notAncmtMgtNo=68078&searchCnd=SJ"
+  },
+  {
+    "id": 101,
+    "year": 2025,
+    "projectname": "오리민간비축",
+    "budget": "10,000",
+    "eligibility": "ㅇ 오리 계열화사업자로서 정부의 수급정책에 따라 하절기에 오리고기를 생산･비축한 후, 동절기 수급불안 시 비축물량을 방출하려는 업체",
+    "supportDetails": "ㅇ 사업대상자의 오리고기의 생산, 도축, 가공, 보관, 판매 등에 소요비용",
+    "url": "https://www.mafra.go.kr/bbs/mafra/71/215134/download.do"
+  },
+  {
+    "id": 102,
+    "year": 2025,
+    "projectname": "계란유통센터시설현대화(계란공판장활성화지원)",
+    "budget": "4,456",
+    "eligibility": "ㅇ ｢농수산물 유통 및 가격안정에 관한 법률｣ 제43조에 따른 계란공판장 개설자",
+    "supportDetails": "ㅇ 계란가격 결정구조 개선을 위해 도입한 공판장에서 거래가 활성화될 수 있도록, 계란 공판장 경유시 발생하는 추가비용(운송비, 수수료, 선별비) 지원",
+    "url": "https://www.jangsu.go.kr/synap/skin/doc.html?fn=164214133700691.hwp&rs=/upload_data/Synap/BBS_0000025/&cpath=%2Ftown"
+  },
+  {
+    "id": 103,
+    "year": 2025,
+    "projectname": "축산물이력관리 지원(민간)",
+    "budget": "34,817",
+    "eligibility": "ㅇ 가축 및 축산물 이력관리에 관한 법률 제30조(권한의 위임･위탁 등) 및 동법 시행령 제12조(권한 또는 업무의 위임･위탁 등)",
+    "supportDetails": "ㅇ 가축 및 축산물 이력관리에 필요한 가축 및 축산물식별대장 작성･관리, 이력관리시스템 운영 및 DNA검사 등에 필요한 경비 지원",
+    "url": "https://www.krei.re.kr/support/board/atchDown.do?no=89914"
+  },
+  {
+    "id": 104,
+    "year": 2025,
+    "projectname": "국산 유제품 경쟁력 강화 지원 사업",
+    "budget": "43,257",
+    "eligibility": "ㅇ 낙농진흥회와 원유의 사용 용도별 차등가격제도 참여 계약을 체결하고, 동 제도 시행에 필요한 자료 제공의무를 성실히 이행하는 원유수요자",
+    "supportDetails": "ㅇ 용도별 차등가격제 지원\n  - 사업대상자가 사업대상 기간 생산계약 체결 낙농가 또는 타 집유주체에서 구매한 원유에 대해 일부 지원\nㅇ 가공유 사용지원\n  - 사업대상 기간 중 생산계약을 체결한 낙농가에서 구매한 원유를 원유수요자에게 판매하는 데 발생하는 차액 등의 비용 지원\n  - 원유수요자에게 원유(음용유용, 가공유용)를 판매하고도 남은 원유는 낙농진흥회가 수매하여 분유 등으로 가공 및 판매하며, 이때 발생하는 원유 구입비 및 제비용(임가공비, 보관비, 제품운송비 등)과 임가공제품 판매액과의 차액(수매에 따른 손실)에 대해 지원\nㅇ 기타\n  - 원유생산량 감소 등 국내 가공유용 원유 지원이 필요한 경우 예산 범위 내에서 가공유용 원유 사용량에 대해 지원",
+    "url": "https://uni.agrix.go.kr/guide/lmxsrv/law/lawFullView.do?SEQ=9100"
+  },
+  {
+    "id": 105,
+    "year": 2025,
+    "projectname": "원유소비활성화",
+    "budget": "7,000",
+    "eligibility": "ㅇ 국산 원유를 사용하여 유가공품을 생산하는 유가공업자",
+    "supportDetails": "ㅇ 원유구입비, 유제품 생산 R&D, 판촉비용 등 지원",
+    "url": "https://naepo.chungnam.go.kr/cnnet/board.do?mnu_url=/cnbbs/view.do?board_seq=458865&mnu_cd=CNNMENU00237&code=51"
+  },
+  {
+    "id": 106,
+    "year": 2025,
+    "projectname": "방역 위생 인프라",
+    "budget": "9,900",
+    "eligibility": "ㅇ 양돈 및 가금 가축사육농가 및 종축업농가",
+    "supportDetails": "ㅇ 축산농가의 CCTV 등 방역시설비 지원",
+    "url": "https://www.ganghwa.go.kr/open_content/main/eminwon/announce/eminwonDetail.do?seq=44486"
+  },
+  {
+    "id": 107,
+    "year": 2025,
+    "projectname": "가축사육제한보상금",
+    "budget": "4,628",
+    "eligibility": "ㅇ 축산농가",
+    "supportDetails": "ㅇ 동절기 오리농장 사육제한에 따른 보상금 지원",
+    "url": "https://www.joongdo.co.kr/web/view.php?key=20250217010004909"
+  },
+  {
+    "id": 108,
+    "year": 2025,
+    "projectname": "조사료 생산 지원(조사료생산기반확충사업)",
+    "budget": "77,213",
+    "eligibility": "ㅇ ｢농업･농촌 및 식품산업 기본법｣에 의한 농업인, 농업법인, 생산자단체 또는 시장･군수가 그에 준하다고 인정하는 자로서 조사료를 생산･이용하려는 자",
+    "supportDetails": "ㅇ 국산 조사료를 생산･이용하는 자에게 사일리지 제조비, 종자구입비 등 조사료 품질관리를 위한 시설･장비 및 인건비 지원 등을 관할 지자체를 통해서 개별농가 및 농업법인 등에게 지원",
+    "url": "https://www.krei.re.kr/support/board/atchDown.do?no=96429"
+  },
+  {
+    "id": 109,
+    "year": 2025,
+    "projectname": "방목생태축산농장조성",
+    "budget": 888,
+    "eligibility": "ㅇ 농업인, 농업법인, 생산자단체, 지방자치단체(｢축산법｣제22조에 따라 축산업(가축사육업) 허가를 받거나 받으려는자 또는 등록하거나 등록하려는 자, ｢축산법 시행령｣제14조의3에 따라 등록대상에서 제외되는 가축을 사육하거나 하려는 자, ｢농업･농촌 및 식품산업 기본법｣에 따라 설립된 영농조합법인, 농업회사법인 등, ｢농업협동조합법｣에 따라 설립된 지역 농･축･낙협 등, ｢지방자치법｣에 제2조에 따른 시･군･구 등 지방자치단체 및 ｢지방공기업법｣에 따른 지방공사 등 지방공기업)",
+    "supportDetails": "ㅇ 초지조성(경운･불경운･임간초지) 및 초지관리에 소요되는 인건비, 자재대, 측량수수료, 초지･사료작물 재배부지 정지비, 초지 기반시설 등\nㅇ 울타리설치에 소요되는 인건비, 자재대 등",
+    "url": "https://www.gongju.go.kr/bbs/BBSMSTR_000000000827/view.do?nttId=B000000337614Fd1uF5j"
+  },
+  {
+    "id": 110,
+    "year": 2025,
+    "projectname": "식품기능성평가 지원",
+    "budget": "3,156",
+    "eligibility": "ㅇ 식품기업･농업법인 등, 한국식품산업클러스터진흥원",
+    "supportDetails": "ㅇ 국산 농산물 유래 우수 소재의 기능성 규명을 위한 임상실험 등 과정 지원, 국산 기능성 식품소재 산업화를 위한 기능성 실증･소재화･제품개발 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000002"
+  },
+  {
+    "id": 111,
+    "year": 2025,
+    "projectname": "GAP 안전성 분석 지원",
+    "eligibility": "ㅇ 안전성 검사비 지원: 신청일을 기준으로 GAP 인증을 유지하고 있는자(GAP 인증을 받은 자 또는 받기 위해 안전성 검사를 실시하고 그 비용을 부담한 자에게 지원하되 다른 안전성 검사비용을 지원받거나 분석결과 인증 기준에 부적합한 경우 지원 제외)",
+    "supportDetails": "ㅇ GAP 인증을 받은자 또는 받기위해 안전성 검사를 실시한 경우 분석 비용 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000145"
+  },
+  {
+    "id": 112,
+    "year": 2025,
+    "projectname": "GAP위생시설 보완 지원",
+    "budget": "1,170",
+    "eligibility": "ㅇ ｢농어업경영체 육성 및 지원에 관한 법률｣ 제4조에 따라 농업경영정보를 등록한 농업인･농업법인 등, ｢농업･농촌 및 식품산업 기본법｣ 제3조제4호에 따른 생산자단체",
+    "supportDetails": "ㅇ 농산물우수관리시설로 지정 받으려는 시설 또는 농산물우수관리 시설로 지정을 받았으나 시설보완이 필요한 농산물 생산･유통시설에 대해 위생시설 보완 지원",
+    "url": "https://www.gp.go.kr/portal/selectGosiData.do?key=2148&not_ancmt_mgt_no=50027"
+  },
+  {
+    "id": 113,
+    "year": 2025,
+    "projectname": "수입농산물등 유통이력 신고의무자 교육",
+    "budget": 354,
+    "eligibility": "ㅇ 전국 단위로 조직화된 활동인원(명예 감시원 등)을 보유하고 있어 지역별 수입농산물등 유통이력 의무대상자(수입･유통업체)에 대한 전화 및 대면 교육･홍보가 가능한 기관",
+    "supportDetails": "ㅇ 수입농산물 등 유통이력관리 제도 시스템 관련 업무매뉴얼, 리플릿 등을 제작하여 신고대상자에게 제도 설명 및 운영시스템 사용방법 등을 교육･홍보, 언론보도를 통한 제도 홍보 등 추진",
+    "url": "https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000207886"
+  },
+  {
+    "id": 114,
+    "year": 2025,
+    "projectname": "찾아가는 양조장",
+    "budget": 192,
+    "eligibility": "ㅇ 국내 전통주 등 생산업체",
+    "supportDetails": "ㅇ 양조장 환경개선, 프로그램 개발 소요 비용(최대 80%지원)",
+    "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e8a364b4-161e-4f79-81ab-533a3f4239f7"
+  },
+  {
+    "id": 115,
+    "year": 2025,
+    "projectname": "외식업 경쟁력 강화 패키지",
+    "budget": "1,850",
+    "eligibility": "ㅇ 지자체(외식업체 등)",
+    "supportDetails": "ㅇ 외식업 경재력 강화를 위한 경영컨설팅 및 식재료 공동구매 지원",
+    "url": "https://www.newsro.kr/article243/404676/"
+  },
+  {
+    "id": 116,
+    "year": 2025,
+    "projectname": "농축산물 할인지원",
+    "budget": "108,000",
+    "eligibility": "ㅇ 유통업체",
+    "supportDetails": "ㅇ 유통업체를 통해 소비자에 농축산물 구매액 20% 지원",
+    "url": "https://sale.foodnuri.go.kr/"
+  },
+  {
+    "id": 117,
+    "year": 2025,
+    "projectname": "생산기반조성",
+    "budget": "9,760",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 수출농산물의 안정적 공급을 위한 수출단지 조직화 교육 및 안전성 관리, 농산물 수출에 필요한 수입국 검역관 초청 등 지원",
+    "url": "http://www.palnews.co.kr/news/articleView.html?idxno=228449"
+  },
+  {
+    "id": 118,
+    "year": 2025,
+    "projectname": "판매조직육성",
+    "budget": "26,880",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 농산물 수출 경쟁력 제고 및 효율화를 위해 전문판매조직인 수출통합･선도조직 육성, 수출협의회 운영 및 전문인력 육성 교육 등 지원",
+    "url": "https://uni.agrix.go.kr/guide/lmxsrv/law/lawFullView.do?SEQ=4648"
+  },
+  {
+    "id": 119,
+    "year": 2025,
+    "projectname": "농식품우수기업육성",
+    "budget": "54,447",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 보험기입, 선도유지제 구입, 수출컨설팅 제공, 상품화, 현지화, 해외인증 등 농식품 수출에 필요한 사업을 맞춤형으로 지원 ",
+    "url": "http://www.agrinet.co.kr/news/articleView.html?idxno=334486"
+  },
+  {
+    "id": 120,
+    "year": 2025,
+    "projectname": "수출전략형 제품 인큐베이팅",
+    "budget": 919,
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 농식품 수출시장 다변화를 선도할 프런티어 인큐베이팅 업체의 현지시장에 부합하는 제품개선, 포장･디자인 개발, 현지마케팅, 상담회 및 품평회 등 지원",
+    "url": "https://thevc.kr/grants/d3216bd1c4eb74d4f18d94e5"
+  },
+  {
+    "id": 121,
+    "year": 2025,
+    "projectname": "외식산업 수출 지원",
+    "budget": 779,
+    "eligibility": "ㅇ 외식프랜차이즈 기업 등",
+    "supportDetails": "ㅇ 국제 프랜차이즈 박람회 참가 지원 및 맞춤형 바우처 사업 등 추진을 통해 국내 우수 외식기업 글로벌 홍보 및 해외 진출 확대",
+    "url": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1014534957"
+  },
+  {
+    "id": 122,
+    "year": 2025,
+    "projectname": "민관합동협의회운영",
+    "budget": 315,
+    "eligibility": "ㅇ 농식품 수출업체 등",
+    "supportDetails": "ㅇ 수출환경 변화 대응, 수출 애로수집･해소를 위한 점검회의, 현장간담회 등 운영",
+    "url": "http://www.kgnews.co.kr/"
+  },
+  {
+    "id": 123,
+    "year": 2025,
+    "projectname": "온라인모바일마케팅",
+    "budget": "2,533",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 온라인･디지털 중심으로 변화하고 있는 글로벌 유통･소비환경에 대응, 농식품 기업의 글로벌 전자상거래플랫폼 진출 지원",
+    "url": "https://global.at.or.kr/front/expsupt/intro.do?_mtype=B&_dept1=2&_dept2=5&_dept3=7"
+  },
+  {
+    "id": 124,
+    "year": 2025,
+    "projectname": "우수농식품신선도제고",
+    "budget": "1,652",
+    "eligibility": "ㅇ 신선농산물 수출업체, 수출통합･선도조직, APC, 물류업체 등",
+    "supportDetails": "ㅇ 수확 후 저장･운송 등 수출선적 준비 동안 신선도 유지 및 유통비용 절감 위해 CA기술 활용 가능한 ‘일체형 CA유통 구축지원’",
+    "url": "https://www.gimhae.go.kr/board/download.do?idx=2536444&fnum=2&gcode=2124&fsiz="
+  },
+  {
+    "id": 125,
+    "year": 2025,
+    "projectname": "신선농산물저온유통체계구축",
+    "budget": "1,900",
+    "eligibility": "ㅇ 국내산 신선농산물 및 가공식품(원재료 포함) 수출업체(대기업 제외) 등",
+    "supportDetails": "ㅇ 신선농산물 및 가공식품(원재료 포함)의 품질관리비용, 저온유통 처리비용 등을 지원하여, 원료단계부터 선적단계까지의 선도유지 관리체계 강화 및 농식품 수출경쟁력 확보",
+    "url": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000666947&fileSn=1"
+  },
+  {
+    "id": 126,
+    "year": 2025,
+    "projectname": "해외정보조사･전파",
+    "budget": "3,695",
+    "eligibility": "ㅇ 농식품 수출업체 등",
+    "supportDetails": "ㅇ 통상환경 변화, 해외 비관세장벽 강화 등 농식품 수출과 관련된 정보를 파악하고, 생산농가와 수출업체 등에 제공하여 우리 농식품 수출 확대 및 경쟁력 제고",
+    "url": "https://www.epeople.go.kr/api/thk/conversational/selectConversationalDevDetail.npaid?ideaRegNo=1AE-2209-0000584"
+  },
+  {
+    "id": 127,
+    "year": 2025,
+    "projectname": "우수농식품 콜드체인 구축",
+    "budget": "4,660",
+    "eligibility": "ㅇ 농식품 수입업체 및 수출업체",
+    "supportDetails": "ㅇ 해외 공동물류센터 이용, 냉동･저온 유통지원을 통해 수출 농식품의 신선도 향상, 품질 유지 등을 통한 경쟁력 제고",
+    "url": "http://www.youngnong.co.kr"
+  },
+  {
+    "id": 128,
+    "year": 2025,
+    "projectname": "우수농식품 판로개척",
+    "budget": "35,412",
+    "eligibility": "ㅇ 농식품 수출업체 등",
+    "supportDetails": "ㅇ 농식품 수출 소비저변 확대를 위한 국제박람회 참가, K-Food Fair 개최, 바이어초청 상담회, 해외안테나숍 운영, 수출농식품 홍보관 운영 등 지원",
+    "url": "https://ebizcb.chungbuk.go.kr/plc/selectPolicyInf.do?menuId=MNU_0000000000000077&plcInfId=be557e42-0951-4480-8da3-dc25f67d2a65"
+  },
+  {
+    "id": 129,
+    "year": 2025,
+    "projectname": "검역해소품목 및 전략품목육성 지원",
+    "budget": "4,000",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 시장에서 검역이 타결된 품목의 초기 시장 정착을 지원하고, 주요 전략품목에 대해 시장진입부터 단계별 맞춤형 지원을 통해 농식품 수출확대 도모",
+    "url": "https://global.at.or.kr/front/expsupt/intro.do?_mtype=B&_dept1=2&_dept2=2&_dept3=10"
+  },
+  {
+    "id": 130,
+    "year": 2025,
+    "projectname": "해외식품인증지원센터",
+    "budget": "1,080",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 할랄･코셔 등 해외 식품인증에 필요한 식품성분 분석, 국내외 할랄 상호인정을 위한 기술지원, 국제 공인 할랄연구실 운영 등을 통해 중동 등 신규 시장 진출 지원",
+    "url": "https://www.miraeconsulting.co.kr/news/article.html?no=29652"
+  },
+  {
+    "id": 131,
+    "year": 2025,
+    "projectname": "시장개척플랫폼 구축･운영",
+    "budget": "4,230",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 해외 신규시장 개척을 위해 정보･네트워킹 플랫폼 구축 및 청년해외개척단 파견 운영, 선도기업의 수출상담회 참여, 수출 유망품목 육성, 다변화전략국 현지 마케팅 등 지원",
+    "url": "https://ydpn.kr/%EC%8B%9C%EC%9E%A5-%EA%B0%9C%EC%B2%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EC%88%98%EC%B6%9C%EC%A0%84%EB%9E%B5%ED%98%95-%EC%A0%9C%ED%92%88-%EC%9D%B8/"
+  },
+  {
+    "id": 132,
+    "year": 2025,
+    "projectname": "뉴미디어마케팅",
+    "budget": "5,290",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 해외 현지 소비자들이 많이 이용하는 동영상, SNS 등 새롭게 부상하는 유망 온라인 매체를 활용하여 한국농식품 홍보",
+    "url": "https://zdnet.co.kr/view/?no=20250516005117"
+  },
+  {
+    "id": 133,
+    "year": 2025,
+    "projectname": "온라인플랫폼 운영",
+    "budget": "1,287",
+    "eligibility": "ㅇ 농식품 수출농가, 수출업체 등",
+    "supportDetails": "ㅇ 유력 온라인몰 내 ‘한국식품관’ 구축을 통한 수시 홍보･판촉 및 신규 입점 지원, 공동마케팅 진행을 통한 농식품 수출기업 해외진출 확대",
+    "url": "https://ader.naver.com/v1/o6YPZ_Ac6rLPxrOsZ7JzcTi0cic863qZDIwoD5pTrymC-6yhjcHFk0g379HoEPsgGjcz9vSY-FkZXhh4brsPMbG6D1bBp3XWabfJftGwCzIrngLib3OiuKeThP0QWQX4EuI4QeEzXKPkk6U-eZTHMISdamAr_rZzpbC877u3Z4MaFOjIASHfUPsuJNDKyqXwmG4s732j1uNvOh5cG-furriWtxix3ri0A_-fKpjdK3vC9LqF-QAdJbvYq_Ey--k80KlAPggOooZYC4ZNJNrd50P-QQE8rRnvY0hF7JbR7-JnRqPfy-YCtWIDPQWvNN6RAGzWG-2z4BXoNm_hK6l3oLXTBkXGUpZuK7GR87FPndJDsVAUUEWr9TQ0qTAjOw_jmIqF4fyeqbS1k1JTkreuHnv9lSTR26O-FKJ2h-VTiqTBFV_uA3Yoi9Ywwjj_url-xcsEgBW5eoHKVQ-geyQDXA==?c=naver.search.pc.plsearch&t=0"
+  },
+  {
+    "id": 134,
+    "year": 2025,
+    "projectname": "해외 新유통채널 연계 현지시장 진출",
+    "budget": 469,
+    "eligibility": "ㅇ 농식품 수출업체 등",
+    "supportDetails": "ㅇ 해외진출 식품기업 중심으로 국가별 협의체를 구성, 신규 수출기업을 위한 판로 공동활용, K-Food 공동마케팅 등 수출 확대 지원",
+    "url": "#lb_api=https%3a%2f%2fs.search.naver.com%2fp%2freview%2f49%2fsearch.naver%3fabt%3d%26ac%3d0%26api_type%3d5%26aq%3d0%26enlu_query%3dIggCAO%252BAULgvAAAAtdoURqXUdp9ygLuVMM8qJtOBaRMbW4IVUJv7O3tZYHLIxVLryATadj1TFLOhQ9dy90DyBe6mT9q3nq5gdQYODT8OXDpYBe0PBQzFayiZjQ6ZLY1IkXNOETD20qOnFC%252Flblt6tVEAMsDCuTIRghvQ6Iy2z774woaRYvI%252F8Lqu0vh537xnKLheGOylxJO3SFL1oqcSjkd9%252FmmbGum0Fe%252FoDnd9zRJkZ6AOnL%252FM%252FKW9MxHyaUyzoeB8rf%252BVqR%252FZ4Lk4U%252F4laoTwny96pokryX6j3z6U6wC89Y8bpuPGjjs3VJF1EJl1gQPzuh0kGGf3lrcw64neoQz7B903t2aMjsXQPV134jdzU5EXRFPrSnlKIZ2Y3HCPqDxo7S8gGCQMW%252ByxICV5%252Be5qZP17VD7i0NAzMr2kwzEqoU%252B8gEVu5TBMxMnbmlxkbq7Zwf93CGrq%252FZAiGkkx3mwyHyJ2ePbTpu12Jtu%252BIbq3bWwpFcvg14nhz%252BoFYV1IwgiyiKD5GZlyi3O0%252BRdChoyg85oCvPFI77KBEBGWufy6Xjm6uDF5KxBq8bdhnC4rnfQ62a43n75F8hrdOGyFyRkv8MWYO6mtjPyT5PZRhwP2%252BUUCHmTX2O4yGIpX0Z7%252Bad4I%252FQzYHEU94z%252BNMzw2kSgLzO7bKhIQwzkrF76hquCLGzWjFnqLAexZ2brEA33oUqUHrLV7UWFahuTI2L9WsRLQwod%252FhQ8HbazWyUi7YCK%252B%252Bms09Kkw9GKaPeR%252FU6cxhyHp7I0jufwC80Kh2yeaSp0GGV8EgkEt3kHIfp5Sek69ODL2QzvlE0l8%252Fe3jTih6DmvIDvtBVWoLnPDl9l7ncM9aI9F7N7ZQtC6Q7lqurhl8ZorPsr6Dke394Nn8yynqi0Q4ztfBPkPm0Z7IMzeZAi%252FOzKELnlmqvueBXiyPnc2J9GWSxZ7UnisjCNSt14rU3fnKih40Tu7zqAT8%26equery%3dIggCAByCULjOAAAAPsw%252BMeIw72xc0tM9iq9WjW29%252BXO%252FAdeLnhzZPsyWLu8Aw5V7WeKTq8m3G9ha9EiAHcrk47qlppHuY3thggQPKQ%253D%253D%26fgn_city%3d%26fgn_region%3d%26lgl_lat%3d36.5485%26lgl_long%3d128.798225%26lgl_rcode%3d04170137%26ngn_country%3dKR%26nso%3d%26nx_and_query%3d%26nx_search_query%3d%26nx_sub_query%3d%26prank%3d0%26query%3d%25ED%2595%25B4%25EC%2599%25B8%2b%25E6%2596%25B0%25EC%259C%25A0%25ED%2586%25B5%25EC%25B1%2584%25EB%2584%2590%2b%25EC%2597%25B0%25EA%25B3%2584%2b%25ED%2598%2584%25EC%25A7%2580%25EC%258B%259C%25EC%259E%25A5%2b%25EC%25A7%2584%25EC%25B6%259C%26sm%3d%26spq%3d0%26ssc%3dtab.itb.all%26start%3d1"
+  },
+  {
+    "id": 135,
+    "year": 2025,
+    "projectname": "노지 스마트농업 시범사업",
+    "budget": "17,980",
+    "eligibility": "ㅇ 노지 스마트농업 시범사업에 참여하고자 하는 시･도",
+    "supportDetails": "ㅇ 노지 스마트농업 시범단지 조성을 위한 기초기반 조성, 자동화 장비･기계 구축, 사업단 운영 등에 소요되는 비용 지원",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20251106010002847"
+  },
+  {
+    "id": 136,
+    "year": 2025,
+    "projectname": "지역특화 임대형 스마트팜",
+    "budget": "28,000",
+    "eligibility": "ㅇ 지역특화 임대형 스마트팜 사업 공모에 선정된 지자체",
+    "supportDetails": "ㅇ 기반조성, 온실 및 에너지 냉난방시설 조성 사업비",
+    "url": "http://www.domin.co.kr"
+  },
+  {
+    "id": 137,
+    "year": 2025,
+    "projectname": "스마트팜 ICT기자재 국가표준 확산지원",
+    "budget": "3,900",
+    "eligibility": "ㅇ 스마트팜 ICT기자재 농산업체",
+    "supportDetails": "ㅇ 스마트팜 ICT기자재 국가표준 적용을 위한 컨설팅, 제품개선, 검정, 재직자 교육 등 지원",
+    "url": "https://www.koat.or.kr/board/business/15235/view.do"
+  },
+  {
+    "id": 138,
+    "year": 2025,
+    "projectname": "보육운영비(스마트팜 청년창업 보육센터)",
+    "budget": "8,000",
+    "eligibility": "ㅇ 스마트팜 혁신밸리 지역 4개소(전북･전남･경북･경남)의 지자체 보육센터",
+    "supportDetails": "ㅇ 청년대상 스마트팜 창업에 필요한 장기교육 운영비 지원",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148942107"
+  },
+  {
+    "id": 139,
+    "year": 2025,
+    "projectname": "스마트팜 실증단지 사업",
+    "budget": "6,074",
+    "eligibility": "ㅇ (실증지원･기술혁신 서비스) 스마트팜 혁신밸리 선정 지자체(4개소)\n  - (1차지역) 전북(김제), 경북(상주) / (2차지역) 전남(고흥), 경남(밀양)\nㅇ (실증기업 지원) 스마트팜 혁신밸리 실증단지 참여기업",
+    "supportDetails": "ㅇ (전문실증지원 서비스) 스마트팜 혁신밸리 실증･데이터서비스 제공을 위한 비용(위탁사업비 등) 지원\nㅇ (실증기업 지원) 스마트팜 혁신밸리 실증기업의 실증에 필요한 비용 지원\nㅇ (기술혁신 지원서비스) 기술혁신 지원서비스 사업을 위한 비용 지원",
+    "url": "https://uni.agrix.go.kr/guide/lmxsrv/law/lawFullContent.do?SEQ_HISTORY=5916"
+  },
+  {
+    "id": 140,
+    "year": 2025,
+    "projectname": "권역별현장지원센터(농업농촌교육훈련)",
+    "budget": 300,
+    "eligibility": "ㅇ 농업에 ICT를 접목한 스마트팜 농가의 지원 및 확산을 희망하는 지자체(시도, 시군)",
+    "supportDetails": "ㅇ 스마트팜 농가 및 예비 농가를 대상으로 교육, 컨설팅, 유지보수(A/S) 등 지원",
+    "url": "https://www.seocheon.go.kr/prog/deptPerson/farm/sub01_03_02/4580028/list.do"
+  },
+  {
+    "id": 141,
+    "year": 2025,
+    "projectname": "데이터 기반 스마트농업 확산 지원",
+    "budget": "6,235",
+    "eligibility": "ㅇ 스마트팜 관련 기업, 연구기관 등과 농업인으로 구성된 컨소시엄",
+    "supportDetails": "ㅇ 농업 현장에서 농업인이 직면하고 있는 생산성 향상, 비용 절감 등 문제 해결을 위한 데이터 기반 솔루션･서비스를 농가에 적용 및 고도화 비용 지원",
+    "url": "http://www.palnews.co.kr/news/articleView.html?idxno=229514"
+  },
+  {
+    "id": 142,
+    "year": 2025,
+    "projectname": "농식품ICT융복합촉진",
+    "budget": "2,568",
+    "eligibility": "ㅇ 농림수산식품교육문화정보원",
+    "supportDetails": "ㅇ 스마트팜코리아(빅데이터플랫폼) 시스템 운영 및 관리 지원",
+    "url": "https://www.epis.or.kr/download/BUSINESS_ATTACH?storageNo=14833"
+  },
+  {
+    "id": 143,
+    "year": 2025,
+    "projectname": "국내채종기반구축사업",
+    "budget": "7,362",
+    "eligibility": "ㅇ 종자업(채소)을 3년 이상 영위하고 있어야 함\nㅇ 신청 품목에 대해 품종보호출원(또는 등록) 실적 또는 생산･판매신고 실적이 있어야 함(수출 전용품종은 예외)",
+    "supportDetails": "ㅇ 국내 종자업체가 농가와 채종(종자생산)계약하고 실제 지급한 수매대금의 50%를 종자 업체에 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000087"
+  },
+  {
+    "id": 144,
+    "year": 2025,
+    "projectname": "종자 구입비 지원",
+    "budget": "1,920",
+    "eligibility": "ㅇ 2025년 농식품부 국산 밀 생산단지 경영체 육성사업 참여 업체\nㅇ 2025년산 밀 보급종 우선 신청･공급 업체",
+    "supportDetails": "ㅇ 국산 밀 생산단지 경영체 육성사업 계약 면적에 파종할 밀 보급종 구입비의 최대 50% 지원",
+    "url": "https://www.pocheon.go.kr/www/selectEminwonView.do?key=12563&notAncmtMgtNo=54749"
+  },
+  {
+    "id": 145,
+    "year": 2025,
+    "projectname": "과수 무병묘목 (보급종) 생산･공급 지원(무병화 및 무병묘 검정)",
+    "budget": 800,
+    "eligibility": "ㅇ 무병화 관리기관 운영을 위한 장비, 인력 구성 등의 기반을 갖춘 공공기관, 지방자치단체, 농업법인 등 관계 전문기관",
+    "supportDetails": "ㅇ 무병화 관리기관의 사업수행에 필요한 재료비, 인건비, 유지관리비 등",
+    "url": "https://www.mafra.go.kr/bbs/home/792/574876/download.do"
+  },
+  {
+    "id": 146,
+    "year": 2025,
+    "projectname": "과수 무병묘목 생산･공급 지원(무병묘목 구입비 지원)",
+    "budget": 600,
+    "eligibility": "ㅇ 5대 과수의 무병화 인증을 받은 무병묘를 구매한 농가",
+    "supportDetails": "ㅇ 5대 과수 무병묘 구입비용의 차액 일부 지원",
+    "url": "https://www.epeople.go.kr/idea/bp/1AE-2408-0001863/detail.npaid"
+  },
+  {
+    "id": 147,
+    "year": 2025,
+    "projectname": "과수 무병묘목 생산･공급 지원(무병묘 모수포 조성)",
+    "budget": 200,
+    "eligibility": "ㅇ 5대 과수의 무병 모수를 보유하고 있거나 모수를 보유하고자 하는 종자업 등록자 또는 농업단체 등",
+    "supportDetails": "ㅇ 무병 모수를 생산관리 할 수 있는 모수포를 조성하도록 시설하우스 설치 및 개･보수 비용 지원",
+    "url": "https://www.jinan.go.kr/board/view.jinan?boardId=BBS_0000026&dataSid=169857"
+  },
+  {
+    "id": 148,
+    "year": 2025,
+    "projectname": "과수 우량묘목 (원종) 생산지원(생산지원, 기반조성)",
+    "budget": 755,
+    "eligibility": "ㅇ 묘목 생산자 단체로 무병 원종 생산･관리 기관(한국과수농업협동조합연합회 중앙과수묘목관리센터)",
+    "supportDetails": "ㅇ 무병묘를 생산하기 위해 상위단계 우량묘목(원종) 생산에 소요되는 원종생산비 등을 지원",
+    "url": "https://www.mafra.go.kr/bbs/mafra/71/218994/download.do"
+  },
+  {
+    "id": 149,
+    "year": 2025,
+    "projectname": "우수종묘증식보급기반구축",
+    "budget": "4,500",
+    "eligibility": "ㅇ 지자체, 농업법인, 농업인(국내채종계약)",
+    "supportDetails": "ㅇ 품목: 온실, 저온저장고, 관련 장비 등 종자･묘 생산에 필요한 시설･장비/씨감자, 고구마종순, 특수미, 약용작물 종자, 버섯종균, 육묘, 딸기종묘, 과수묘목, 화훼종묘, 녹비･사료작물, 종묘삼, 마늘종구, 생강종구, 차나무, 뽕나무 등",
+    "url": "https://www.boeun.go.kr/www/selectBbsNttView.do?key=381&bbsNo=126&nttNo=201827"
+  },
+  {
+    "id": 150,
+    "year": 2025,
+    "projectname": "민간육종가 육성 지원",
+    "budget": 244,
+    "eligibility": "ㅇ 개인육종가, 상시근로자 50인 이하의 법인 및 민간육종가 협의회 회원 대상의 공동사업만 신청 가능",
+    "supportDetails": "ㅇ (홍보･마케팅, 입식비 지원) 민간육성품종의 수출 등 홍보용 다국어 카탈로그 제작 등 온･오프라인 광고, 화훼류 신품종 입식비 지원\nㅇ (종자전문인력 양성 지원) 종자관련 해외 온･오프라인 전문기관 연수 및 세미나, 개별 소그룹 해외 기획연수, 해외 박람회 참가 체재비 지원\nㅇ 신품종 육성, 생산, 품질관리, 판매, 수출 등 소요 실비 지원",
+    "url": "http://kosaseed.or.kr/sub/sub03_01.php?mNum=3&sNum=1&boardid=notice&mode=view&idx=353"
+  },
+  {
+    "id": 151,
+    "year": 2025,
+    "projectname": "원원종 및원종생산",
+    "budget": "6,328",
+    "eligibility": "ㅇ 주요 농작물(벼, 콩, 밀, 보리 등)의 원원종 및 원종을 생산하는 지방자치 단체",
+    "supportDetails": "ㅇ 상위단계종자(원원종, 원종) 생산에 소요되는 직접생산비",
+    "url": "https://council.chungnam.go.kr/kr/bbs/download.do?bbs_id=budgetReq&uid=3AE0B3436DF912DCE15B97E4AC3DFC2D"
+  },
+  {
+    "id": 152,
+    "year": 2025,
+    "projectname": "곤충사육시설현대화",
+    "budget": "1,000",
+    "eligibility": "ㅇ ｢농어업경영체 육성 및 지원에 관한 법률｣ 제4조에 따라 농업경영정보를 등록한 농업인･농업법인\nㅇ ｢곤충산업의 육성 및 지원에 관한 법률｣ 제12조에 따른 곤충생산(사육) 신고확인증을 받은 자\n※ 곤충을 사육하고 있거나 사육예정인 자",
+    "supportDetails": "ㅇ 곤충 생산 관련 시설･설비(신축 또는 개보수)과 기자재 구비(신규 구비 또는 교체)에 소요되는 비용",
+    "url": "https://www.rda.go.kr/young/custom/policy/view.do?sId=44440&cp=1"
+  },
+  {
+    "id": 153,
+    "year": 2025,
+    "projectname": "곤충산업화지원",
+    "budget": 600,
+    "eligibility": "ㅇ ｢농어업경영체 육성 및 지원에 관한 법률｣ 제4조에 따라 농업경영정보를 등록한 농업인･농업법인\nㅇ｢곤충산업의 육성 및 지원에 관한 법률｣ 제12조에 따른 곤충생산업 또는 가공업 신고확인증을 받은 자",
+    "supportDetails": "ㅇ 거점기관은 협력농가에 곤충종자 보급, 곤충 생산 장비 보급 및 관리, 먹이원 공급, 수매･가공 등을 통해 지원하고 협력농가는 균일한 품질의 곤충 생산",
+    "url": "https://www.liveinfo.kr/news/article.html?no=22775"
+  },
+  {
+    "id": 154,
+    "year": 2025,
+    "projectname": "곤충유통활성화(곤충유통사업지원)",
+    "budget": 360,
+    "eligibility": "ㅇ 생산자단체･연구기관･유통조직 등으로 구성하여, 규모화･조직화･전문화에 기반하여 단일화된 마케팅 창구 기능을 수행하기 위해 운영되는 조직(가칭. 곤충유통사업단)",
+    "supportDetails": "ㅇ 곤충 유통 활성화를 위한 농가조직화, 교육･컨설팅, 품질관리 및 제품개발･홍보･마케팅 경비 지원",
+    "url": "https://www.ekape.or.kr/contents/list.do?menuId=menu189288"
+  },
+  {
+    "id": 155,
+    "year": 2025,
+    "projectname": "동물복지축산인증제활성화(동물복지인증 생산품 판로 지원)",
+    "budget": 200,
+    "eligibility": "ㅇ 동물복지축산농장 인증 축산물 유통업체, 방송매체 등",
+    "supportDetails": "ㅇ 동물복지축산농장 생산 축산물의 유통･판매 활성화를 위한 온･오프라인 판촉전, 인증농가 연계 홍보프로그램, 방송매체 홍보 등 추진",
+    "url": "https://www.wonju.go.kr/www/downloadBbsFile.do?key=211&atchmnflNo=304099"
+  },
+  {
+    "id": 156,
+    "year": 2025,
+    "projectname": "동물복지축산인증제활성화(동물복지축산 컨설팅)",
+    "budget": 124,
+    "eligibility": "ㅇ 동물복지축산농장 신규 참여희망 경영체(개인･법인) 및 기 인증 경영체(개인･법인)",
+    "supportDetails": "ㅇ 동물복지축산농장 컨설팅 자문비(시설･장비 구입자금, 운영자금으로 사용 불가)",
+    "url": "https://www.animal.go.kr/attachment/download.do?forceDown=true&seq=20008"
+  },
+  {
+    "id": 157,
+    "year": 2025,
+    "projectname": "수출 공동 대응체계 마련",
+    "budget": 50,
+    "eligibility": "ㅇ 반려동물 연관산업 관련 기업, 연구기관 등",
+    "supportDetails": "ㅇ 온라인 플랫폼(아마존, Chewy.com 등) 입점 및 해외 진출 공동 대응체계 마련을 위한 사업비 지원",
+    "url": "https://www.yna.co.kr/view/AKR20250423161300002"
+  },
+  {
+    "id": 158,
+    "year": 2025,
+    "projectname": "수출시장 개척",
+    "budget": 440,
+    "eligibility": "ㅇ 반려동물 연관산업 관련 기업, 연구기관 등",
+    "supportDetails": "ㅇ 박람회, 국제 컨퍼런스 등 참가로 제품 홍보 강화 및 현지 법률 자문, 홈페이지･카탈로그 현지화, 해외인증 지원, 해외진출 전문 인재 육성을 위한 사업비 지원",
+    "url": "https://news.ikbc.co.kr/news/main"
+  },
+  {
+    "id": 159,
+    "year": 2025,
+    "projectname": "시장조사 및 전파",
+    "budget": "1,100",
+    "eligibility": "ㅇ 반려동물 연관산업 관련 기업, 연구기관 등",
+    "supportDetails": "ㅇ 수출 유망국 시장조사 및 K-Pet 수출박람회 개최, 상품화 및 부가가치 증대를 위한 사업비 지원",
+    "url": "https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000093599"
+  },
+  {
+    "id": 160,
+    "year": 2025,
+    "projectname": "GMP 컨설팅 지원",
+    "budget": 100,
+    "eligibility": "ㅇ 동물용의약품 제조(수출)업체",
+    "supportDetails": "ㅇ 국제기준의 동물용의약품 GMP 지정 희망업체에 대한 컨설팅 지원",
+    "url": "https://www.kmedihub.re.kr/index.do?menu_id=00400257"
+  },
+  {
+    "id": 161,
+    "year": 2025,
+    "projectname": "수출혁신품목육성",
+    "budget": 800,
+    "eligibility": "ㅇ 동물용의약품 제조(수출)업체",
+    "supportDetails": "ㅇ 동물용의약품 수출을 위한 임상시험, 해외등록 관련 비용 등 지원",
+    "url": "https://www.nongupez.go.kr/nsm/bizAply/wholeBiz/wholeBizDtls?afbzCd=AB000514&bizYr=2025"
+  },
+  {
+    "id": 162,
+    "year": 2025,
+    "projectname": "동물용의약품 수출시장개척지원",
+    "budget": 491,
+    "eligibility": "ㅇ 동물용의약품 제조(수출)업체",
+    "supportDetails": "ㅇ 동물용의약품 관련 해외 전시회 참가, 해외수출마케팅, 시장개척단파견 지원",
+    "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=3147799"
+  },
+  {
+    "id": 163,
+    "year": 2025,
+    "projectname": "농식품벤처육성지원",
+    "budget": "13,125",
+    "eligibility": "ㅇ 예비창업자 및 창업기업, 첨단기술 분야 혁신기술을 보유한 기업",
+    "supportDetails": "ㅇ (농식품 분야) 사업화 자금, 창업 상담 및 컨설팅, 제품 판로 제공 등\nㅇ (첨단기술분야) 혁신기술･제품의 사업모델 고도화 자금 및 특화 교육･투자 IR, 멘토링 프로그램 등 ",
+    "url": "https://cc.newdaily.co.kr/site/data/html/2025/05/13/2025051300232.html"
+  },
+  {
+    "id": 164,
+    "year": 2025,
+    "projectname": "농식품 벤처창업 인턴제 ",
+    "budget": 302,
+    "eligibility": "ㅇ 농식품 분야 창업 아이템을 보유 또는 발굴 의지를 지닌 만 19세 이상 39세 이하의 예비창업자",
+    "supportDetails": "ㅇ 현장실습 지원(2~3개월) 및 인턴지원금, 창업교육 및 멘토링 등",
+    "url": "https://www.a-startups.or.kr/planweb/board/view.9is?dataUid=4028b2028b8507cf018e4090e42767e2&boardUid=ba6550717457c60f01747698c25f0569&contentUid=4028b202865975f001867b92fa6c29c3"
+  },
+  {
+    "id": 165,
+    "year": 2025,
+    "projectname": "기술평가지원",
+    "budget": 200,
+    "eligibility": "ㅇ 농식품 분야 특허기술 및 품종보호권 등 지식재산권 또는 노하우를 보유한 벤처･창업기업",
+    "supportDetails": "ㅇ 농식품 기술평가 수수료 지원",
+    "url": "https://www.k2base.re.kr/89f/page.do"
+  },
+  {
+    "id": 166,
+    "year": 2025,
+    "projectname": "농식품 기술창업 액셀러레이터 육성지원",
+    "budget": "3,300",
+    "eligibility": "ㅇ (액셀러레이터) 농식품 분야 스타트업 투자에 관심있는 액셀러레이터\nㅇ (스타트업) 농식품 및 농산업 기술 분야 창업기업으로 공고 마감일 기준 7년 이내 (예비) 창업자",
+    "supportDetails": "ㅇ 농식품 스타트업 대상 액셀러레이팅 운영자금",
+    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=231777"
+  },
+  {
+    "id": 167,
+    "year": 2025,
+    "projectname": "농산업체 판로지원",
+    "budget": 805,
+    "eligibility": "ㅇ 농식품 벤처육성기업 등 온오프라인 판매가 가능한 제품을 보유하고 있는 7년 이내 농식품창업기업",
+    "supportDetails": "ㅇ 농식품 창업제품 온･오프라인 홍보 및 판로",
+    "url": "https://cafe.naver.com/smartworkri"
+  },
+  {
+    "id": 168,
+    "year": 2025,
+    "projectname": "농식품 크라우드 펀딩 활성화 지원",
+    "budget": 600,
+    "eligibility": "ㅇ 농식품 분야 예비창업자 및 기창업 기업 등",
+    "supportDetails": "ㅇ 크라우드펀딩 관련 컨설팅 및 수수료 지원",
+    "url": "https://onestop119.daegu.go.kr/index.do?menu_id=00000121&menu_link=/onestop/advisInfoFrontView.do?sector_id=177828"
+  },
+  {
+    "id": 169,
+    "year": 2025,
+    "projectname": "민간투자기반 스케일업 지원",
+    "budget": "7,500",
+    "eligibility": "ㅇ 농식품 벤처창업기업",
+    "supportDetails": "ㅇ 기술력과 사업성을 인정받은 우수 창업기업 대상 투자금과 매칭한 사업화자금 지원",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005022"
+  },
+  {
+    "id": 170,
+    "year": 2025,
+    "projectname": "농식품산업 해외진출지원",
+    "budget": "3,000",
+    "eligibility": "ㅇ 해외농업자원개발 신고기업 또는 정관과 법인등기부에 해외농업자원개발 사업 등을 목적사업으로 등재한 법인 등",
+    "supportDetails": "ㅇ 해외농업자원개발 진출에 필요한 전문교육, 진출지역 사전환경조사 및 컨설팅 지원, 영농지원센터 운영, 정보제공 및 교류 지원 등",
+    "url": "https://www.oads.or.kr/board/annc/selectAnnounce.do?annc_seq=54"
+  },
+  {
+    "id": 171,
+    "year": 2025,
+    "projectname": "친환경농업기반구축(자율, 세종)",
+    "eligibility": "ㅇ 친환경농업 집적지구를 관리하는 생산자단체",
+    "supportDetails": "ㅇ 생산자단체에 친환경농산물 생산･가공･유통 관련 시설･장비 등 지원",
+    "url": "https://lib.mafra.go.kr/skyblueimage/3080.pdf"
+  },
+  {
+    "id": 172,
+    "year": 2025,
+    "projectname": "유기농업자재지원",
+    "budget": "6,206",
+    "eligibility": "ㅇ 농업경영정보를 등록한 농업경영체로서 녹비작물 종자를 재배하려는 농지, 유기･무농약인증 및 일반 농산물을 재배하는 농지",
+    "supportDetails": "ㅇ 친환경농업인 등에게 유기농업자재, 녹비 종자 등 구입비 일부 및 토양검정 및 컨설팅 비용 지원\n  - 녹비작물 종자(ha): 헤어리베치 60kg, 녹비(청)보리 140kg, 호밀 160kg, 자운영 50kg, 수단그라스(조･중생종, 만생종) 50kg\n  - 유기농업자재(자재원료): (유기) 200만원/ha, (무농약) 150만원/ha, (일반) 100만원/ha\n  - 토양검정(관행농가), 시비처방컨설팅(친환경인증 및 관행농가)",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000014"
+  },
+  {
+    "id": 173,
+    "year": 2025,
+    "projectname": "친환경농산물직거래지원(융자)",
+    "budget": "22,800",
+    "eligibility": "ㅇ 친환경농축산물 직거래사업에 참여를 희망하는 생산자단체, 생협, 전문유통업체, 유기가공식품업체, 전자상거래사업자, 개인사업자 등",
+    "supportDetails": "ㅇ 친환경농업인, 생산자단체 등이 생산한 농축산물 직거래 구매 자금",
+    "url": "https://www.krei.re.kr/support/board/atchDown.do?no=96453"
+  },
+  {
+    "id": 174,
+    "year": 2025,
+    "projectname": "탄소중립 프로그램 시범사업(경종 분야)",
+    "budget": "4,056",
+    "eligibility": "ㅇ (경종) 전년도 및 당해연도 기본직불금 지급대상이며, 논 농업에 종사하는 농업법인 또는 생산자단체로 소속된 개별 농업인 및 법인소유 필지를 포함하여 50ha 이상 규모화가 가능한 경우",
+    "supportDetails": "ㅇ 저탄소 영농활동 이행에 따른 활동비 지급",
+    "url": "https://www.gimje.go.kr/synap/skin/doc.html?fn=170554408700947.hwp&rs=/upload_data/Synap/BBS_0000027/&cpath="
+  },
+  {
+    "id": 175,
+    "year": 2025,
+    "projectname": "농업농촌 자발적 온실가스 감축사업",
+    "budget": 819,
+    "eligibility": "ㅇ 저탄소 농업기술을 적용하여 온실가스를 감축한 농업경영체",
+    "supportDetails": "ㅇ 감축량 모니터링･검인증 및 인센티브 지급 등",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000312"
+  },
+  {
+    "id": 176,
+    "year": 2025,
+    "projectname": "저탄소 농축산물 인증제(농산물 인증)",
+    "budget": "1,747",
+    "eligibility": "ㅇ (농산물인증) 친환경 또는 GAP 인증을 사전에 취득하고, 인증 대상 농산물의 생산과정에서 저탄소 농업기술(18개)을 적용하여 온실가스를 적게 배출한 농업인 및 농업법인, 생산자집단",
+    "supportDetails": "ㅇ 저탄소 농산물 인증 컨설팅, 인증 심사 및 사후관리 지원",
+    "url": "https://uni.agrix.go.kr/guide/lmxsrv/law/lawFullView.do?SEQ=9136"
+  },
+  {
+    "id": 177,
+    "year": 2025,
+    "projectname": "농업･농촌 RE100 실증지원",
+    "budget": "2,766",
+    "eligibility": "ㅇ 농촌 지역 4개 지방자치단체(시･군)",
+    "supportDetails": "ㅇ 마을발전소 및 자가소비용 재생에너지 설치, 에너지 절감형 리모델링, 에너지 진단 등 패키지 지원",
+    "url": "http://www.palnews.co.kr/news/articleView.html?idxno=225039"
+  }
+]
