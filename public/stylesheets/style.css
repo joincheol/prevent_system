@@ -36,13 +36,13 @@ body {
   transition: background-color 0.2s ease;
 }
 
-.login { color: #fff; }
+.login { color: #fff; background-color: #e06b2d; }
 .login:hover { background-color: #e9ecef; color: #22457e; }
 .signup {
   background-color: #e06b2d;
   color: #fff;
 }
-.signup:hover { background-color: #c55d1c; }
+.signup:hover { background-color: #e9ecef; color: #22457e; }
 
 .main {
   display: flex;
