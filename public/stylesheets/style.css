@@ -36,12 +36,11 @@ body {
   transition: background-color 0.2s ease;
 }
 
+.upload { color: #fff; background-color: #5cd476; }
+.upload:hover { background-color: #e9ecef; color: #22457e; }
 .login { color: #fff; background-color: #e06b2d; }
 .login:hover { background-color: #e9ecef; color: #22457e; }
-.signup {
-  background-color: #e06b2d;
-  color: #fff;
-}
+.signup { background-color: #e06b2d; color: #fff; }
 .signup:hover { background-color: #e9ecef; color: #22457e; }
 
 .main {

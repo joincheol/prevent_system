@@ -311,6 +311,7 @@
     document.getElementById("modal").style.display = "none";
   }
 
+  
   async function sendMessage() {
     const input = document.getElementById("userInput");
     const text = input.value.trim();
@@ -333,13 +334,25 @@
       });
       const data = await res.json();
 
-      if (data && data.response) {
+      const askPrompt2 = `당신은 농업 전문가 AI입니다. 사용자 질문에 명확하고 친절하게 응답하세요. 3줄 이내로 요약해서 설명해주세요.\n\n질문: ${text}\n\n답변:`;
+      const res2 = await fetch('http://localhost:11434/api/generate', {
+        method: 'POST',
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          model: 'gemma3',
+          prompt: askPrompt2,
+          stream: false
+        })
+      });
+      const data2 = await res2.json();
+
+      if (data && data.response && data2 && data2.response) {
         document.getElementById("popupResponses").style.display = "flex";
         const boxes = document.querySelectorAll(".popup-box");
         boxes[0].textContent = data.response;
         boxes[0].onclick = () => showModal(data.response);
-        boxes[1].textContent = "추천 답변 2의 상세 내용입니다.";
-        boxes[1].onclick = () => showModal("추천 답변 2의 상세 내용입니다.");
+        boxes[1].textContent = data2.response;
+        boxes[1].onclick = () => showModal(data2.response);
       }
     } catch (err) {
       alert("오류 발생: " + err.message);
@@ -374,7 +387,6 @@
       }
     });
   };
-
 
 </script>
 </body>
