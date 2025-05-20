@@ -265,6 +265,48 @@ const SIDO_SIGUNGU_MAP = {
   ]
 };
 
+// 병해충 임의 데이터 (벼 데이터 다수, 다양한 월/연도)
+const pestData = [
+  { lat: 34.818857, lng: 126.454393, sickNameKor: "잎도열병", cropName: "벼", date: "2024-08-23" },
+  { lat: 35.228753, lng: 128.673179, sickNameKor: "잎도열병", cropName: "벼", date: "2024-07-23" },
+  { lat: 36.508557, lng: 126.802900, sickNameKor: "잎도열병", cropName: "벼", date: "2024-09-11" },
+  { lat: 35.190139, lng: 126.765946, sickNameKor: "잎도열병", cropName: "벼", date: "2024-06-28" },
+  { lat: 35.212989, lng: 128.676227, sickNameKor: "잎도열병", cropName: "벼", date: "2024-01-04" },
+  { lat: 36.516669, lng: 126.805549, sickNameKor: "잎도열병", cropName: "벼", date: "2023-12-10" },
+  { lat: 35.507361, lng: 127.007148, sickNameKor: "잎도열병", cropName: "벼", date: "2024-02-14" },
+  { lat: 35.183726, lng: 126.781170, sickNameKor: "잎도열병", cropName: "벼", date: "2024-03-16" },
+  { lat: 35.236318, lng: 128.682321, sickNameKor: "잎도열병", cropName: "벼", date: "2024-10-18" },
+  { lat: 36.514916, lng: 126.796213, sickNameKor: "잎도열병", cropName: "벼", date: "2023-11-23" },
+
+  { lat: 35.235121, lng: 128.670192, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2024-11-22" },
+  { lat: 35.177839, lng: 126.772640, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2024-05-16" },
+  { lat: 35.501646, lng: 126.997921, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2023-09-19" },
+  { lat: 35.185857, lng: 126.768168, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2024-05-12" },
+  { lat: 35.225745, lng: 128.686159, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2023-08-16" },
+  { lat: 35.172706, lng: 126.780351, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2024-07-09" },
+  { lat: 36.509460, lng: 126.803365, sickNameKor: "세균벼알마름병출수시", cropName: "벼", date: "2023-03-21" },
+
+  { lat: 37.449747, lng: 126.693016, sickNameKor: "감자역병", cropName: "감자", date: "2024-02-06" },
+  { lat: 36.808808, lng: 127.207057, sickNameKor: "감자역병", cropName: "감자", date: "2024-06-08" },
+  { lat: 37.458285, lng: 126.692933, sickNameKor: "감자역병", cropName: "감자", date: "2023-01-12" },
+  { lat: 36.352014, lng: 127.398690, sickNameKor: "감자역병", cropName: "감자", date: "2024-05-26" },
+  { lat: 37.570588, lng: 126.993247, sickNameKor: "감자역병", cropName: "감자", date: "2023-10-27" },
+
+  { lat: 36.356651, lng: 128.399937, sickNameKor: "갈색무늬병", cropName: "사과", date: "2024-07-21" },
+  { lat: 36.355298, lng: 128.400099, sickNameKor: "갈색무늬병", cropName: "사과", date: "2023-07-04" },
+
+  { lat: 36.592865, lng: 127.599875, sickNameKor: "고추역병", cropName: "고추", date: "2024-08-20" },
+  { lat: 36.718034, lng: 127.694331, sickNameKor: "고추역병", cropName: "고추", date: "2023-11-21" },
+  { lat: 36.347286, lng: 127.378259, sickNameKor: "고추역병", cropName: "고추", date: "2024-12-21" },
+  { lat: 36.584929, lng: 127.902321, sickNameKor: "고추역병", cropName: "고추", date: "2023-11-23" },
+  { lat: 36.704093, lng: 127.696888, sickNameKor: "고추역병", cropName: "고추", date: "2024-05-13" },
+  { lat: 36.509889, lng: 127.501585, sickNameKor: "고추역병", cropName: "고추", date: "2023-05-15" },
+
+  { lat: 33.481059, lng: 126.513304, sickNameKor: "감귤궤양병", cropName: "감귤", date: "2024-06-05" },
+  { lat: 33.510438, lng: 126.538024, sickNameKor: "감귤궤양병", cropName: "감귤", date: "2023-11-08" },
+  { lat: 33.490187, lng: 126.528902, sickNameKor: "감귤궤양병", cropName: "감귤", date: "2024-01-19" },
+];
+
 const mapOptions = {
   center: new naver.maps.LatLng(37.3595704, 127.105399),
   zoom: 10
@@ -276,6 +318,7 @@ let allData = [];
 let filteredData = [];
 let allMarkers = [];
 let markerList = [];
+let pestMarkers = []; // 병해충 마커 전용 배열
 let infowindowList = [];
 let selectedStatus = "";
 
@@ -336,14 +379,6 @@ $(document).on('click', '#filter-reset', function() {
   applyFilters();
 });
 
-// 질병명 버튼 이벤트
-$(document).on('click', '.disease-buttons button', function() {
-  $('.disease-buttons button').removeClass('active');
-  $(this).addClass('active');
-  selectedStatus = $(this).data('status') || "";
-  applyFilters();
-});
-
 // 필터 적용 함수 (시군구는 데이터 필터에 포함 X)
 function applyFilters() {
   const year = $('#filter-year').val();
@@ -372,6 +407,7 @@ function applyFilters() {
 
 // 마커 및 리스트/건수 렌더링 (기존과 동일)
 function renderMarkersAndList(data) {
+  // 마커 제거
   if (allMarkers.length) {
     allMarkers.forEach(obj => obj.marker.setMap(null));
     allMarkers = [];
@@ -486,3 +522,95 @@ function renderMarkersAndList(data) {
     $('#occur-date-range').text('');
   }
 }
+
+function hideAllMarkers() {
+  allMarkers.forEach(obj => obj.marker.setMap(null));
+}
+
+function getPinSVG(color = "#d0021b") {
+  return `
+  <svg width="32" height="44" viewBox="0 0 32 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_d_1_2)">
+      <path d="M16 0C8.268 0 2 6.268 2 14c0 8.837 12.16 27.042 12.68 27.792a2 2 0 0 0 3.64 0C17.84 41.042 30 22.837 30 14c0-7.732-6.268-14-14-14zm0 19a5 5 0 1 1 0-10 5 5 0 0 1 0 10z" fill="${color}"/>
+      <circle cx="16" cy="14" r="5" fill="#fff"/>
+    </g>
+    <defs>
+      <filter id="filter0_d_1_2" x="0" y="0" width="32" height="44" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+        <feColorMatrix in="SourceAlpha" type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+        <feOffset dy="2"/>
+        <feGaussianBlur stdDeviation="1"/>
+        <feComposite in2="SourceAlpha" operator="out"/>
+        <feColorMatrix type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+        <feBlend in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+      </filter>
+    </defs>
+  </svg>
+  `;
+}
+
+const pestMarkerColors = {
+  "잎도열병":        "#4a90e2",   // 파랑
+  "세균벼알마름병출수시": "#f5a623",   // 주황
+  "감자역병":        "#8b572a",   // 갈색
+  "갈색무늬병":      "#a67c52",   // 진갈색
+  "감귤궤양병":      "#7ed321",   // 연두
+  "고추역병":        "#d0021b",   // 빨강
+  "default":         "#222"
+};
+
+function showPestMarkers() {
+  pestMarkers.forEach(m => m.setMap(null));
+  pestMarkers = [];
+
+  pestData.forEach(item => {
+    if (!item.lat || !item.lng) return;
+    const color = pestMarkerColors[item.sickNameKor] || pestMarkerColors["default"];
+    const marker = new naver.maps.Marker({
+      position: new naver.maps.LatLng(item.lat, item.lng),
+      map: map,
+      icon: {
+        content: getPinSVG(color),
+        size: new naver.maps.Size(32, 44),
+        anchor: new naver.maps.Point(16, 44)
+      },
+      title: item.sickNameKor + ' (' + item.cropName + ')'
+    });
+
+    const infoWindow = new naver.maps.InfoWindow({
+      content: `<div style="padding:10px;">
+        <b>${item.sickNameKor}</b><br>
+        작물: ${item.cropName}<br>
+        ${item.date}
+      </div>`
+    });
+
+    naver.maps.Event.addListener(marker, "click", function() {
+      infoWindow.open(map, marker);
+    });
+
+    pestMarkers.push(marker);
+  });
+}
+
+function hidePestMarkers() {
+  pestMarkers.forEach(m => m.setMap(null));
+  pestMarkers = [];
+}
+
+$(document).on('click', '.disease-buttons button', function() {
+  $('.disease-buttons button').removeClass('active');
+  $(this).addClass('active');
+  selectedStatus = $(this).data('status') || "";  // <-- 전역 변수에 할당
+
+  if (selectedStatus === "병해충") {
+    hideAllMarkers();    // 기존 질병 마커 숨김
+    showPestMarkers();   // 병해충 마커만 표시
+  } else {
+    hidePestMarkers();   // 병해충 마커 숨김
+    applyFilters && applyFilters(); // 기존 마커/필터 표시
+  }
+});
