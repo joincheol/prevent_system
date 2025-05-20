@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>뉴스 요약 서비스</title>
+  <style>
+    body {
+      font-family: 'Noto Sans KR', sans-serif;
+      margin: 0;
+      background-color: #f9fafb;
+      color: #222;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* 상단 네비게이션 */
+    .slider-header {
+      position: absolute;
+      top: 10px;
+      left: 20px;
+      display: flex;
+      gap: 10px;
+      z-index: 10;
+    }
+
+    .slider-header a {
+      background-color: white;
+      color: #333;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: all 0.3s ease;
+    }
+
+    .slider-header a:hover {
+      background-color: #e5e5e5;
+    }
+
+    /* 슬라이더 */
+    .slider {
+      overflow: hidden;
+      width: 100%;
+      background: linear-gradient(to right, #4f46e5, #6366f1);
+      color: white;
+      height: 220px;
+      position: relative;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+    }
+
+.slider-track {
+  display: flex;
+  width: calc(100% * 5);
+  height: 100%;
+  transition: transform 0.5s ease;
+  justify-content: flex-start; /* 카드가 왼쪽부터 붙도록 */
+  align-items: center;
+  gap: 8px; /* 카드 사이 간격 조금 줄임 */
+  padding: 0 10px; /* 좌우 패딩으로 여백 조절 */
+}
+
+.slide {
+  flex: 0 0 32%; /* 고정 너비 + flex-grow 0, 3개가 한 줄에 딱 맞게 */
+  box-sizing: border-box;
+  padding: 15px 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(118, 75, 162, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.05rem;
+  user-select: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.slide:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(118, 75, 162, 0.6);
+  cursor: pointer;
+}
+
+
+
+    .slider-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: rgba(255,255,255,0.8);
+      border: none;
+      border-radius: 50%;
+      width: 35px;
+      height: 35px;
+      cursor: pointer;
+      font-size: 1.2rem;
+      font-weight: bold;
+      z-index: 5;
+      color: #333;
+      transition: background-color 0.3s ease;
+    }
+
+    .slider-btn:hover {
+      background-color: white;
+    }
+
+    .slider-btn.left { left: 10px; }
+    .slider-btn.right { right: 10px; }
+
+    /* 본문 */
+    .container {
+      max-width: 1100px;
+      margin: 30px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    }
+
+    .search-box {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      font-size: 1rem;
+    }
+
+    button[type="submit"] {
+      padding: 10px 20px;
+      background-color: #4f46e5;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background-color 0.3s ease;
+    }
+
+    button[type="submit"]:hover {
+      background-color: #4338ca;
+    }
+
+    .badge-container {
+      margin-bottom: 20px;
+    }
+
+    .badge {
+      display: inline-block;
+      background: #f1f5f9;
+      color: #1f2937;
+      padding: 6px 12px;
+      margin: 5px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: background-color 0.3s ease;
+    }
+
+    .badge:hover {
+      background-color: #e2e8f0;
+    }
+
+    .content {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .box {
+      flex: 1 1 45%;
+      padding: 20px;
+      background: #f8fafc;
+      border-radius: 12px;
+      overflow-y: auto;
+      max-height: 400px;
+      box-shadow: inset 0 0 5px rgba(0,0,0,0.05);
+    }
+
+    .box h3 {
+      margin-top: 0;
+    }
+
+    .news-item {
+      border-bottom: 1px solid #e5e7eb;
+      padding: 10px 0;
+    }
+
+    .summary-item {
+      margin-bottom: 15px;
+      padding-bottom: 10px;
+      border-bottom: 1px dashed #ccc;
+    }
+
+    #next-page-btn {
+      width: 100%;
+      padding: 10px 0;
+      margin-top: 10px;
+      background-color: #10b981;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    #next-page-btn:hover {
+      background-color: #059669;
+    }
+
+    @media (max-width: 768px) {
+      .content {
+        flex-direction: column;
+      }
+
+      .box {
+        flex: 1 1 100%;
+        max-height: none;
+      }
+
+      .slide {
+        min-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 슬라이더 -->
+  <div class="slider">
+    <!-- 상단 버튼 -->
+    <div class="slider-header">
+      <a href="http://localhost:3000/">홈</a>
+      <a href="http://localhost:3000/support">정책 지원</a>
+      <a href="http://localhost:3000/assist">도우미</a>
+    </div>
+
+    <!-- 양쪽 이동 버튼 -->
+    <button class="slider-btn left" onclick="prevSlide()">&#10094;</button>
+    <div class="slider-track" id="slider-track">
+      {% for item in items[:10] %}
+        <div class="slide">{{ item.title | safe }}</div>
+      {% endfor %}
+    </div>
+    <button class="slider-btn right" onclick="nextSlide()">&#10095;</button>
+  </div>
+
+  <!-- 본문 -->
+  <div class="container">
+    <form method="POST" class="search-box">
+      <input type="text" value="농사" name="query" placeholder="뉴스 검색어를 입력하세요..." required
+             onkeydown="if(event.key === 'Enter') this.form.submit();">
+      <button type="submit">검색</button>
+    </form>
+
+    <div class="badge-container">
+      <span class="badge">과수화산병</span>
+      <span class="badge">구제역</span>
+      <span class="badge">인플루엔자</span>
+      <span class="badge">날씨</span>
+      <span class="badge">사과 수확</span>
+    </div>
+
+    <div class="content">
+      <div class="box">
+        <h3>뉴스 리스트</h3>
+        <div id="news-list"></div>
+        <button id="next-page-btn">다음 페이지 보기</button>
+      </div>
+      <div class="box" id="summary-box">
+        <h3>AI 요약</h3>
+        <div id="summaries"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 추천 뱃지 자동입력
+    document.querySelectorAll('.badge').forEach(badge => {
+      badge.addEventListener('click', () => {
+        document.querySelector('input[name="query"]').value = badge.textContent;
+      });
+    });
+
+    // 슬라이드
+    let currentGroup = 0;
+    const totalSlides = 5;
+    const slidesPerView = 3;
+    const maxGroup = Math.ceil(totalSlides / slidesPerView);
+    const sliderTrack = document.getElementById('slider-track');
+
+    function updateSlide() {
+      const shift = currentGroup * (100 / slidesPerView);
+      sliderTrack.style.transform = `translateX(-${shift}%)`;
+    }
+
+    function nextSlide() {
+      currentGroup = (currentGroup + 1) % maxGroup;
+      updateSlide();
+    }
+
+    function prevSlide() {
+      currentGroup = (currentGroup - 1 + maxGroup) % maxGroup;
+      updateSlide();
+    }
+
+    // 뉴스 리스트 페이징
+    const newsItems = {{ items | tojson }};
+    const pageSize = 5;
+    let currentPage = 0;
+    const newsListDiv = document.getElementById('news-list');
+    const nextPageBtn = document.getElementById('next-page-btn');
+
+    function renderPage(page) {
+      const start = page * pageSize;
+      const end = start + pageSize;
+      newsListDiv.innerHTML = '';
+      const pageItems = newsItems.slice(start, end);
+
+      if (pageItems.length === 0) {
+        newsListDiv.innerHTML = '<p>더 이상 뉴스가 없습니다.</p>';
+        nextPageBtn.style.display = 'none';
+        return;
+      }
+
+      pageItems.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'news-item';
+        div.innerHTML = `
+          <a href="${item.link}" target="_blank">${item.title}</a><br>
+          <small>${item.pubDate}</small>
+          <p>${item.description}</p>
+        `;
+        newsListDiv.appendChild(div);
+      });
+
+      if (end >= newsItems.length) {
+        nextPageBtn.style.display = 'none';
+      } else {
+        nextPageBtn.style.display = 'block';
+      }
+    }
+
+    nextPageBtn.addEventListener('click', () => {
+      currentPage++;
+      renderPage(currentPage);
+    });
+
+    renderPage(currentPage);
+
+    // AI 요약
+    async function fetchSummaries() {
+      if (newsItems.length === 0) return;
+      const response = await fetch('/api/summarize', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ articles: newsItems.slice(0, 3) })
+      });
+      const summaries = await response.json();
+      const container = document.getElementById('summaries');
+      container.innerHTML = '';
+      summaries.forEach((summary, i) => {
+        container.innerHTML += `<div class="summary-item"><strong>기사 ${i + 1}:</strong> ${summary}</div>`;
+      });
+    }
+
+    {% if items %}
+      fetchSummaries();
+    {% endif %}
+  </script>
+</body>
+</html>

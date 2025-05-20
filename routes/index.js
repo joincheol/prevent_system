@@ -29,8 +29,4 @@ router.get('/assist', function(req, res, next) {
   res.render("assist");
 });
 
-router.get('/news', function(req, res, next) {
-  res.render("news");
-});
-
 module.exports = router;
