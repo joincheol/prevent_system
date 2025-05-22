@@ -77,7 +77,7 @@
       });
       const data = await res.json();
 
-      const askPrompt2 = `당신은 농업 전문가 AI입니다. 사용자 질문에 명확하고 친절하게 응답하세요. 3줄 이내로 요약해서 설명해주세요.\n\n질문: ${text}\n\n답변:`;
+      const askPrompt2 = `당신은 농업 전문가 AI입니다. 사용자 질문에 명확하고 친절하게 응답하세요. 해결 방법을 순서대로 3줄 이내로 요약해서 설명해주세요.\n\n질문: ${text}\n\n답변:`;
       const res2 = await fetch('http://localhost:11434/api/generate', {
         method: 'POST',
         headers: { "Content-Type": "application/json" },

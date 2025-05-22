@@ -5,12 +5,20 @@ import json
 import requests
 import re
 from concurrent.futures import ThreadPoolExecutor
+from dotenv import load_dotenv
+import os
+
+# .env 파일 로드
+load_dotenv()
+
+id = os.getenv("client_id")
+pw = os.getenv("client_secret")
 
 app = Flask(__name__)
 
 # 네이버 API 인증 정보
-client_id = "PKYNBnqsYbJ2MIqab4IJ"
-client_secret = "fYQTZQgiPQ"
+client_id = id
+client_secret = pw
 
 # HTML 템플릿 불러오기
 HTML_TEMPLATE = open('news.html', encoding='utf-8').read()

@@ -8,7 +8,8 @@ var app = require('../app');
 var debug = require('debug')('test:server');
 var http = require('http');
 const mongoose = require("mongoose");
-const userConfig = require("../config/userConfig.json");
+require('dotenv').config();
+const apiKey = process.env.pw;
 
 let db = mongoose.connection;
 db.on("error", console.error);
@@ -17,7 +18,7 @@ db.once("open", () => {
 });
 
 mongoose.connect(
-  `mongodb+srv://comcom:${userConfig.PW}@projectweb.ywhccpf.mongodb.net/?retryWrites=true&w=majority&appName=projectWeb`,
+  `mongodb+srv://comcom:${apiKey}@projectweb.ywhccpf.mongodb.net/?retryWrites=true&w=majority&appName=projectWeb`,
   { useNewUrlParser: true, useUnifiedTopology: true}
 );
 

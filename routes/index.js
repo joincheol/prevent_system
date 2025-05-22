@@ -1,9 +1,12 @@
 var express = require('express');
 var router = express.Router();
 const locationModel = require("../model/location");
+require('dotenv').config();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
+  const apiKey = process.env.NAVER_API_KEY;
+  res.render('index', { apiKey });
   res.render('index', { title: 'Express' });
 });
 
