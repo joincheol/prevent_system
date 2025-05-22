@@ -1,0 +1,12 @@
+# node_modules 폴더 무시
+node_modules/
+
+# 환경변수 파일 무시
+.env
+
+# 로그 파일 무시
+*.log
+
+# 운영체제별 무시 예시
+.DS_Store       # macOS
+Thumbs.db       # Windows
