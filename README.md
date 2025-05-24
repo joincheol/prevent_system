@@ -29,7 +29,8 @@
 
 ## 💻 실행 방법
 - 로컬 생성형AI를 활용하기 위해 모델을 로컬 PC에 다운 받아야함.
-- ollama run gemma3
+- https://ollama.com/ -> ollama 다운받기
+- cmd창에서 ollama run gemma3 -> 모델 다운 받기
 ---
 1. npm start로 파일을 실행
 2. 새로운 터미널을 열어 cd views로 이동 후, python news.py로 실행
