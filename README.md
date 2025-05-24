@@ -34,4 +34,4 @@
 ---
 1. npm start로 파일을 실행
 2. 새로운 터미널을 열어 cd views로 이동 후, python news.py로 실행
-   *.env파일로 api key 별도 보관*
+   .env파일로 api key 별도 보관
